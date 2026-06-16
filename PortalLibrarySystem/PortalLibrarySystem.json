@@ -56,26 +56,6 @@
       ]
     },
     {
-      "Category": "2024",
-      "Worlds": [
-        {
-          "Description": "Happy New Year2024 胡椒神社",
-          "ID": "wrld_39140c64-4737-4698-9511-bd70d34c804b",
-          "Name": "Happy New Year2024 胡椒神社"
-        }
-      ]
-    },
-    {
-      "Category": "2025",
-      "Worlds": [
-        {
-          "Description": "Happy New Year2025 胡椒神社 絵馬、おみくじ、オリジナル年賀状を作る場所あり",
-          "ID": "wrld_f8a183eb-67cd-4693-95e1-f8ab2ff853a8",
-          "Name": "Happy New Year2025 胡椒神社"
-        }
-      ]
-    },
-    {
       "Category": "2026",
       "Worlds": [
         {
@@ -544,11 +524,6 @@
           "Name": "Yamaha Motor - VR TRAIL"
         },
         {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
-        },
-        {
           "Description": "「初音ミク 夜空プログラム2025」のVRChatワールドです。「初音ミク 夜空プログラム」イベント会場である遊園地を象徴する観覧車を再現。初音ミクと一緒にゴンドラに乗れる「星空の魔法観覧車」がお楽しみいただけます。",
           "ID": "wrld_99b6d607-2361-4faf-bb7c-63c3634eee7f",
           "Name": "［CLOSED］ HATSUNE MIKU YOZORA PROGRAM 2025"
@@ -562,11 +537,6 @@
           "Description": "SAPPORO WATER SQUAREは、2022年に営業終了した札幌駅直結の商業施設パセオで賑わいをみせた「水の広場」を再現した空間で、 懐かしさと新しさが融合した空間を演出しています。",
           "ID": "wrld_2744b71f-a74f-4652-a851-1e900b609996",
           "Name": "水の広場 - SAPPORO WATER SQUARE"
-        },
-        {
-          "Description": "JRタワーってどのくらい高いの？という疑問をVRで体感できるミニゲームワールドとなっております。 タイムアタックルールに自らのゴースト機能もあります！この機会にぜひチャレンジを！",
-          "ID": "wrld_f04a64a6-3949-423d-88f0-65579ecf417c",
-          "Name": "JRタワークライミングゲームワールド"
         },
         {
           "Description": "バーチャル沖縄の首里城ワールドへめんそーれ！焼失してしまった正殿がバーチャル上で復活！バーチャル観光をお楽しみください！",
@@ -644,16 +614,6 @@
           "Name": "RoomieTale Studio"
         },
         {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
-        },
-        {
-          "Description": "ティロリミックス2025の公開を記念してつくられた、日本マクドナルド初の公式VRChatワールドです。 バーチャルポテトを食べたり、フォトスポットで撮影を楽しんだり、ご自由にお楽しみください！ 撮影した写真や動画をSNS投稿する際はぜひ ＃バーチャルティロリワールド のハッシュタグをお願いします 公開期間：2025年6月17日まで",
-          "ID": "wrld_db9f0264-393f-4de1-96f2-7979fd4b4667",
-          "Name": "McDonald's Virtual Tirori World （マクドナルド ティロリミックス）"
-        },
-        {
           "Description": "無料で遊べるVazaR Time 毎週月曜21˸00～23˸59！VazaRでVRC連携すると遊べるよ！ VRギブトレ - GiveMeTreasure Board game World․ Play time 15 to 30 minutes․ 2 to 4 players․ Powered by CatsUdon․ VR Production Virtual Party Inc․ Original by SUSABI GAMES",
           "ID": "wrld_116f8eee-ccea-4d7e-862c-509381602434",
           "Name": "VRギブトレ - GiveMeTreasure"
@@ -687,11 +647,6 @@
           "Description": "SAPPORO WATER SQUAREは、2022年に営業終了した札幌駅直結の商業施設パセオで賑わいをみせた「水の広場」を再現した空間で、 懐かしさと新しさが融合した空間を演出しています。",
           "ID": "wrld_2744b71f-a74f-4652-a851-1e900b609996",
           "Name": "水の広場 - SAPPORO WATER SQUARE"
-        },
-        {
-          "Description": "JRタワーってどのくらい高いの？という疑問をVRで体感できるミニゲームワールドとなっております。 タイムアタックルールに自らのゴースト機能もあります！この機会にぜひチャレンジを！",
-          "ID": "wrld_f04a64a6-3949-423d-88f0-65579ecf417c",
-          "Name": "JRタワークライミングゲームワールド"
         },
         {
           "Description": "「Future Exhibition Tower -Daimaru Matsuzakaya-」は大丸・松坂屋アバター販売公式のオリジナルワールドです。 エントランスでは大丸・松坂屋アバター12体をご試着いただけます。 エントランスの奥のエレベーターからは、２F和室フロア、３Fゲームフロア、4FART Frame、5Fごはんテラスにご移動いただけます。",
@@ -834,11 +789,6 @@
           "Name": "Trash Compactor"
         },
         {
-          "Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
-          "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-          "Name": "R․E․P․O․ VRC"
-        },
-        {
           "Description": "An asymmetrical PvP game in which a gigantic VR player battles a team of human players․",
           "ID": "wrld_69c41e95-1539-426a-a321-34412e0b021e",
           "Name": "GIGAS -OLYMPUS-"
@@ -927,16 +877,6 @@
           "Description": "Playable Minecraft-inspired block-building gameǃ Build together‚ make friends‚ and get creativeǃ",
           "ID": "wrld_01b62965-1b3c-4062-bc22-0b339b8063ca",
           "Name": "VRCraft"
-        }
-      ]
-    },
-    {
-      "Category": "admin_okivfes2025",
-      "Worlds": [
-        {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
         }
       ]
     },
@@ -1047,11 +987,6 @@
           "Description": "We need water to live on Mars․ So‚ a project to dig the ground began․ But when we start digging‚ they come․ Dig while protecting the tower․ Good luckǃ",
           "ID": "wrld_8384d64f-34ca-4c3f-a4dc-1127f05a40f1",
           "Name": "Mars Water"
-        },
-        {
-          "Description": "［legacy version‚ the Remaster is the new one］ This is a story‚ of the world ending․ A story of separation‚ loneliness‚ and heartbreak․ All triggers are Local․ Solo play recommended‚ max 10 players․ Republished with no changes",
-          "ID": "wrld_18f6b13c-07fc-4298-8c81-2d42e0646754",
-          "Name": "Reverie Serenade （Legacy 2024）"
         },
         {
           "Description": "Part of a ∗NEST∗ habitat on the lunar surface․ My vision of the future includes capsule like habitats built for singles‚ couples‚ family etc․․ This is a couples capsule․ I believe at a point in time we will be so advanced we will bring the style of our earthly homes to the stars․",
@@ -1596,16 +1531,6 @@
       ]
     },
     {
-      "Category": "admin_worlds_summerfest_2024",
-      "Worlds": [
-        {
-          "Description": "",
-          "ID": "wrld_a39563c5-221a-4bf7-9c16-09f0d51da854",
-          "Name": "Resort in Bali"
-        }
-      ]
-    },
-    {
       "Category": "adventure",
       "Worlds": [
         {
@@ -1644,19 +1569,9 @@
           "Name": "Life - Cinematic Experiance"
         },
         {
-          "Description": "［legacy version‚ the Remaster is the new one］ This is a story‚ of the world ending․ A story of separation‚ loneliness‚ and heartbreak․ All triggers are Local․ Solo play recommended‚ max 10 players․ Republished with no changes",
-          "ID": "wrld_18f6b13c-07fc-4298-8c81-2d42e0646754",
-          "Name": "Reverie Serenade （Legacy 2024）"
-        },
-        {
           "Description": "ちょっとした雪景色のワールドです。 ギミックは全てローカルです。",
           "ID": "wrld_cf81e64f-9c0a-4d94-8271-c96531970847",
           "Name": "Area774 - snow fragment"
-        },
-        {
-          "Description": "Now updated in Unity 2022 and fixed spawn issueǃ Please don't push the buttonǃ It is really annoyingǃ A single player world․ 10-20 minutes․ （v1․0․1） Disclaimer˸ The game will have issues in multiplayer and Quest is untestedǃ Please report bugs in our Discord server˸ discord․com⁄invite⁄tbpQapfyxt",
-          "ID": "wrld_32660b7a-e980-4cb3-b95e-4d51b2682459",
-          "Name": "Please don't push the buttonǃ"
         },
         {
           "Description": "The sequel to Udon's Edge‚ now bigger and betterǃ Udon's Edge 2 provides a new‚ updated movement system‚ a larger and more detailed map‚ significantly better optimization‚ and lots of fun places and secrets to explore and find․ Inspired by game's like Mirror's Edge‚ you can now parkour your way across the city of Arcadia in glorious and very silly VRǃ",
@@ -1958,11 +1873,6 @@
     {
       "Category": "ambience",
       "Worlds": [
-        {
-          "Description": "［legacy version‚ the Remaster is the new one］ This is a story‚ of the world ending․ A story of separation‚ loneliness‚ and heartbreak․ All triggers are Local․ Solo play recommended‚ max 10 players․ Republished with no changes",
-          "ID": "wrld_18f6b13c-07fc-4298-8c81-2d42e0646754",
-          "Name": "Reverie Serenade （Legacy 2024）"
-        },
         {
           "Description": "［ Catch Fish using Physics Based Rodsǃ ］［ Complete your FishDexǃ ］ ［ Relax in a peaceful Environmentǃ ］",
           "ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
@@ -2514,11 +2424,6 @@
           "Name": "Scanner"
         },
         {
-          "Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
-          "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
-          "Name": "VRC PIXELART EXHIBITION"
-        },
-        {
           "Description": "Sensory Rooms is an artistic exploration of old web aesthetics thru virtual space․ This project is a collage of digital artifacts restored from dead sites found on the Internet Archive‚ legacy software‚ and files downloaded over the years․",
           "ID": "wrld_3f4e1cf3-9551-4599-86bb-a1945dba41d6",
           "Name": "Sensory Rooms"
@@ -3024,11 +2929,6 @@
           "Name": "MMD -like˸ Avatar Dance Stage［feat․ BABYMETAL］"
         },
         {
-          "Description": "注意：このワールドはサンプルアバター等ございません。 展示しているアバターも全て骨抜きされています。 「 この世界に差し込む光は、ひと時の内に消えてしまうかもしれません。しかし、その光は霞のようにぼんやりと漂い、決して消え去ることはありません。 確かな答えを求めながらも、曖昧に揺らぐ世界の中を私たちは歩み続けています。 ここで感じてほしいのは、その揺らぎこそが存在の美しさであり、意味なのだという事。 刹那の光にどうか心を寄せてみてください。」",
-          "ID": "wrld_0996e418-cb1b-405e-9616-42c0cf3ead2c",
-          "Name": "燦滅縹渺"
-        },
-        {
           "Description": "無限に続く図書館。謎を解くと最上階に行けるかも․․․。 An endless library․ If you solve the mystery‚ you may be able to go to the top floor ․․․",
           "ID": "wrld_7dcbfa24-9bef-4c8f-b0af-6a33bc5bf9c9",
           "Name": "無限の図書館 -Infinite Library-"
@@ -3332,11 +3232,6 @@
           "Description": "The Black Cat is a simple mirror world․ Come hangout‚ meet new friends‚ eat pancakes‚ and stare at yourself․ Everyone is welcomed at The Black Catǃ",
           "ID": "wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b",
           "Name": "The Black Cat"
-        },
-        {
-          "Description": "不定期RPイベント＂CW-SnackC-＂使用ワールド。落ち着く雰囲気を楽しめる隠れたバー。 イベント仕様の為非公開かつ、センシティブに該当する行為での使用は禁止です。 ＂CW-SnackC-＂ is a world used for irregular RP events․ It's a hidden bar where you can enjoy a calming atmosphere․ Due to its event-specific nature‚ it is private and prohibited for use in any behavior deemed sensitive․ Created by yanagi_the55th⁄Client by Shaile-ｼｪｲﾙ-․ A cozy retreat where you can enjoy a relaxed atmosphere․",
-          "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
-          "Name": "Hidden Bar【SnackC】"
         },
         {
           "Description": "「潮風に誘われて今夜も呑み明かそう」海辺の飲み屋街です。クエスト単体でも軽量に動作するよう制作しています。入れる場所が沢山あるので探索してみてください～。建物や地形は自作モデルを使用しています。一部はBOOTHでも販売しています。毎週金曜日20˸30～22˸00にてVR飲み会「花金飲み会」を開催！Public開催ですのでお気軽にご参加くださいっ 25⁄03⁄21バーガー屋2F BAR追加 25⁄11⁄30Unity2022化 26⁄05⁄08ラーメン屋追加 26⁄05⁄25～梅雨仕様",
@@ -3749,11 +3644,6 @@
           "Name": "Skyline Penthouse"
         },
         {
-          "Description": "Latex Bedroom",
-          "ID": "wrld_77f8c437-3b2c-4c5e-9863-0c7850ddc4c4",
-          "Name": "Latex Bedroom"
-        },
-        {
           "Description": "10名まで入れる中規模な部屋のワールドです。Udonbed⁄YamaPlayer⁄QVPen⁄ImagePad⁄WineWhiskeyあります。",
           "ID": "wrld_9ef02e56-c819-48c4-9f29-c3604efe2d13",
           "Name": "10ExRoom"
@@ -3932,21 +3822,6 @@
           "Description": "Windows XP - Bliss ｜ Grass Field ｜ A GPU Infinite Grass system demo",
           "ID": "wrld_2f580adc-02f5-47ce-be5a-2567d86eb834",
           "Name": "Windows XP - Bliss"
-        }
-      ]
-    },
-    {
-      "Category": "blob",
-      "Worlds": [
-        {
-          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
-          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
-          "Name": "Just Goo Infection - Slime Infects You -"
-        },
-        {
-          "Description": "粘体生物に襲われるワールドです。",
-          "ID": "wrld_efc26f6a-5e63-449f-9e59-c3a7d9fafa66",
-          "Name": "怪奇！粘体生物！"
         }
       ]
     },
@@ -4406,16 +4281,6 @@
       ]
     },
     {
-      "Category": "bullethell",
-      "Worlds": [
-        {
-          "Description": "Fight with your past selves to raid the enemy baseǃ Made with help from Chim-Cham‚ Fins‚ and Fionna․ Created in less than a week for the VRCPrefabs Experiments in Time World Jam․",
-          "ID": "wrld_104a14a5-a9d8-4bd7-ab9f-3d5febd9572c",
-          "Name": "Army of You"
-        }
-      ]
-    },
-    {
       "Category": "bus",
       "Worlds": [
         {
@@ -4611,16 +4476,6 @@
       ]
     },
     {
-      "Category": "campaign",
-      "Worlds": [
-        {
-          "Description": "ティロリミックス2025の公開を記念してつくられた、日本マクドナルド初の公式VRChatワールドです。 バーチャルポテトを食べたり、フォトスポットで撮影を楽しんだり、ご自由にお楽しみください！ 撮影した写真や動画をSNS投稿する際はぜひ ＃バーチャルティロリワールド のハッシュタグをお願いします 公開期間：2025年6月17日まで",
-          "ID": "wrld_db9f0264-393f-4de1-96f2-7979fd4b4667",
-          "Name": "McDonald's Virtual Tirori World （マクドナルド ティロリミックス）"
-        }
-      ]
-    },
-    {
       "Category": "campfire",
       "Worlds": [
         {
@@ -4687,11 +4542,6 @@
           "Description": "まめひなたで三輪車レースができます はしれ",
           "ID": "wrld_9c756345-c7d7-424a-845d-aeb4a05e5a79",
           "Name": "豆日向麗心愚"
-        },
-        {
-          "Description": "OHǃ MY CAR ［Update QVPen to 3․3․3］v1․1․1 Quest対応",
-          "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
-          "Name": "Break the car"
         },
         {
           "Description": "deep fog",
@@ -4946,16 +4796,6 @@
       ]
     },
     {
-      "Category": "changed",
-      "Worlds": [
-        {
-          "Description": "Deep within the bunkers of Site B lies various post-pale remains of the residential habitation zones where life-time employees lived‚ slept‚ and worked․ Warped and vulcanized remains of the site's senior staff may lie in the fray․ The world is effectively my attempt at making cozy lab dorms in the effective environment-design of the Changed universe․",
-          "ID": "wrld_b0d8ad72-b7d4-4d09-b3ae-b2e61c16333f",
-          "Name": "Changed ＆ Chill"
-        }
-      ]
-    },
-    {
       "Category": "chaos",
       "Worlds": [
         {
@@ -5177,11 +5017,6 @@
           "Description": "Cozy map to play suika game with your friends․ World high scores and four synced game boards with smooth real time physics․ Optimized for lag-free gameplay on both Quest and PC․",
           "ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
           "Name": "Melon ＆ Chill Suika Game"
-        },
-        {
-          "Description": "ビールに屋台の焼きそば、そして桜！お花見とは実によい物 フレンドさんと飲み会してね",
-          "ID": "wrld_f81ebd9b-bd38-44e9-9487-91033fc75e7f",
-          "Name": "Justお花見"
         },
         {
           "Description": "170作目は花見ができる屋形舟。景色が流れる中桜を見ながら和の癒しの時間をお過ごしください。ビール、焼肉、すき焼き、うな重などあり。V睡部屋も。 The 170th world is a houseboat where you can enjoy cherry blossom viewing․ Please spend a relaxing time in Japanese style while watching the cherry blossoms as the scenery flows by․ There are beer‚ yakiniku‚ sukiyaki gimmicks‚ eel jus‚ etc․",
@@ -5519,11 +5354,6 @@
           "Name": "STAR t HOME ［CozyHOME（Quest）］［LUWORLD］"
         },
         {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）「なぜか見ず知らずの展示会へ訪れてしまったあなた。何かを期待するように奥へと進む。」 ヒトをモノとして展示するコンセプトのチルワールドです。注意：ホラー要素はありません。本当の展示会ワールドではありません。フィクションです。",
-          "ID": "wrld_10fa7371-b4ea-4cbd-83a7-9f6ebfda026c",
-          "Name": "ヒトがモノになる空間"
-        },
-        {
           "Description": "素敵な時間をお過ごしください。",
           "ID": "wrld_9569bb53-53cb-477c-b392-c27d8a16b24f",
           "Name": "Past times"
@@ -5602,11 +5432,6 @@
           "Description": "祖父母の家をイメージしてフルスクラッチで制作したワールドです。（ギミックを除く） 何かが起こりましたら、ご報告ください。",
           "ID": "wrld_bc1dfe96-91d4-4e96-ac41-243adbb3f1e4",
           "Name": "あなたの部屋では何も起こらない - Re˸Ordinary Room"
-        },
-        {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）ホラーワールドやゲームワールドではありません。あなたの体験していない記憶のHUBです。現在3つのパートが稼働中。",
-          "ID": "wrld_a15a3044-db87-4bac-8d93-282e7a00e8f5",
-          "Name": "記憶の底なし沼"
         },
         {
           "Description": "かの有名な文豪は過去にここを訪れた。",
@@ -5947,11 +5772,6 @@
           "Description": "Chill ＆ Sleep ｜ 桜の舞う青の空島です ｜ v1․0․3 軽量化",
           "ID": "wrld_254e246b-a16e-4b30-914a-9d3bf833a034",
           "Name": "Reincarnation v1․0"
-        },
-        {
-          "Description": "wip ⁄ local ⁄ QVpen‚Player‚Mirror‚Image tablet ⁄ Inspired by Araisan Mansion（アライさんマンション） ⁄ open ˸ ~???",
-          "ID": "wrld_24b1bf80-71ed-45d5-8afe-9b98b35e645f",
-          "Name": "損失前"
         },
         {
           "Description": "3人のキプフェルとゆっくりお過ごしください。 AvatarNPCシステム導入済み 動きます＆撫でれます＆添い寝してくれます！android対応！",
@@ -6674,11 +6494,6 @@
           "Name": "自由に成形できる雪だるまわーるど（Free molding of snowmen）"
         },
         {
-          "Description": "彼らが王の言葉を聞いて旅に出ると、見よ、彼らが東方で見ていた星が彼らの前を進んで、幼子がいる所まで来て、その上にとどまった。彼らはその星を見て、この上もなく喜んだ。",
-          "ID": "wrld_eec01009-971f-4773-914b-a0a2f027a491",
-          "Name": "ITER"
-        },
-        {
           "Description": "クリスマスアイテムが置いてある部屋から脱出しましょう。ハッシュタグ ＃vrc_xmas_escape",
           "ID": "wrld_abdde73e-5d31-4802-aeb5-fcca8a94bc65",
           "Name": "ちょっと殺風景なクリスマス部屋からの脱出！！"
@@ -6722,11 +6537,6 @@
           "Description": "接客イベント ＂Only You＂ で使用されるワールドのPublic公開版です。",
           "ID": "wrld_dfeb1f83-f530-4f61-aab2-81d39d3d9fd5",
           "Name": "Bar Only You"
-        },
-        {
-          "Description": "不定期RPイベント＂CW-SnackC-＂使用ワールド。落ち着く雰囲気を楽しめる隠れたバー。 イベント仕様の為非公開かつ、センシティブに該当する行為での使用は禁止です。 ＂CW-SnackC-＂ is a world used for irregular RP events․ It's a hidden bar where you can enjoy a calming atmosphere․ Due to its event-specific nature‚ it is private and prohibited for use in any behavior deemed sensitive․ Created by yanagi_the55th⁄Client by Shaile-ｼｪｲﾙ-․ A cozy retreat where you can enjoy a relaxed atmosphere․",
-          "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
-          "Name": "Hidden Bar【SnackC】"
         }
       ]
     },
@@ -7089,11 +6899,6 @@
       "Category": "cocktail",
       "Worlds": [
         {
-          "Description": "不定期RPイベント＂CW-SnackC-＂使用ワールド。落ち着く雰囲気を楽しめる隠れたバー。 イベント仕様の為非公開かつ、センシティブに該当する行為での使用は禁止です。 ＂CW-SnackC-＂ is a world used for irregular RP events․ It's a hidden bar where you can enjoy a calming atmosphere․ Due to its event-specific nature‚ it is private and prohibited for use in any behavior deemed sensitive․ Created by yanagi_the55th⁄Client by Shaile-ｼｪｲﾙ-․ A cozy retreat where you can enjoy a relaxed atmosphere․",
-          "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
-          "Name": "Hidden Bar【SnackC】"
-        },
-        {
           "Description": "流星輝く星空の下の、緑の小さなログハウスです。薄暗い夜の雰囲気の中、キャンプファイヤーやカクテルを楽しむことができます。 クッション ⁄ ベッド ⁄ ソファー ⁄ ベンチ ⁄ 椅子にはUse ⁄ Sit判定が付いており、アバターにポーズギミックがなくても、ポージングが可能です（身長1․09mで調整しています）。あなたは、流れ星にどんなお願いごとをしますか？",
           "ID": "wrld_acd3cec1-c008-4c57-84d1-8292295f026b",
           "Name": "星降る夜のひととき"
@@ -7269,11 +7074,6 @@
       "Category": "content_adult",
       "Worlds": [
         {
-          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
-          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
-          "Name": "Just Goo Infection - Slime Infects You -"
-        },
-        {
           "Description": "『注意！原作を知らないと楽しめないかもしれません。一度に登場できるのは2名です。複数で来た場合3～4分の待ち時間が発生します。 』PS2・PS3のホラーゲーム「SIREN」「SIREN˸ NT」をテーマにした非公式ファンメイドのライドアトラクションです。2024年8月24日に開催された同ゲームの愛好家集会「SIREN異界永住集会2024」の会場跡地でもあります。",
           "ID": "wrld_454504d7-b850-4e20-b033-010fe386f321",
           "Name": "どうあがいても絶望病棟THE˸RIDE（SIREN異界永住集会2024跡地）"
@@ -7282,11 +7082,6 @@
           "Description": "｜ ACES≻≻≻AGX ｜ Light Volume ｜ RTGI ｜",
           "ID": "wrld_5f43889a-d7e4-4ecc-802d-c209c2208d1d",
           "Name": "LatexRoomPlus"
-        },
-        {
-          "Description": "Latex Bedroom",
-          "ID": "wrld_77f8c437-3b2c-4c5e-9863-0c7850ddc4c4",
-          "Name": "Latex Bedroom"
         },
         {
           "Description": "（1⁄19 UdonChip Updateǃ）インスタンスオーナーは睡眠部屋に、それ以外はロビーにスポーンします。睡眠部屋にはロビーの端末に繋がるカメラと、音声をロビーに通すスイッチがあります（デフォルトでオフ）。睡眠部屋までのゲートを通るためには＄1000が必要です。許可した人を裏口から入れられる権限システムがあります。権限システムを使うためには、睡眠部屋入り口の「権限を得る」ボタンを押す必要があります。",
@@ -7322,11 +7117,6 @@
           "Description": "（UPDATED˸ 17-May-2026 - Minor Updates） （18＋ world） A museum about different transformations‚ etc․ Will be update to add more in the future․",
           "ID": "wrld_44d2e262-880d-4849-b15f-5dc0f76aa9a6",
           "Name": "Gallery for the Statue Things"
-        },
-        {
-          "Description": "粘体生物に襲われるワールドです。",
-          "ID": "wrld_efc26f6a-5e63-449f-9e59-c3a7d9fafa66",
-          "Name": "怪奇！粘体生物！"
         },
         {
           "Description": "チョコレートにまみれ、沈むワールドです。リスポーンでリセットされます。",
@@ -7404,11 +7194,6 @@
           "Name": "フォルネウス海洋研究所 Institution of Oceanography FORNEUS"
         },
         {
-          "Description": "学校の七不思議のひとつ『異世界階段』の噂がある学校のワールドです。約１５分でクリアできます。",
-          "ID": "wrld_1b49a852-f6ae-481e-9611-71e1476cbaa5",
-          "Name": "学校の怪談～Ghost stories～"
-        },
-        {
           "Description": "少人数でゆったり過ごすために作ったチルワールドです。ミラーは壊れているので使わないでください。",
           "ID": "wrld_97f1e800-ff8a-4a3b-9490-7cc3bd49298b",
           "Name": "この部屋の鏡は壊れています - Broken Mirror"
@@ -7432,11 +7217,6 @@
           "Description": "メタニウム製品でメタバースをもっと便利に。星島工業とメタニウムについて遊んで学べるバーチャル工場見学ワールドです。実在の企業・団体とは一切関係ありません。ホラー要素を含みます。",
           "ID": "wrld_1ef8aa55-5469-4866-b8db-8032c33baa24",
           "Name": "星島工業工場見学"
-        },
-        {
-          "Description": "バカえぐいプレスなかよし",
-          "ID": "wrld_7edc99f7-653f-4939-8d2e-30c72c69e8e9",
-          "Name": "バカえぐいプレスなかよし"
         },
         {
           "Description": "こっくりさんの噂がある学校ワールドです。約２０分でクリアできます。",
@@ -7564,11 +7344,6 @@
           "Name": "UMBRAL"
         },
         {
-          "Description": "バカえぐいプレスなかよし",
-          "ID": "wrld_7edc99f7-653f-4939-8d2e-30c72c69e8e9",
-          "Name": "バカえぐいプレスなかよし"
-        },
-        {
           "Description": "こっくりさんの噂がある学校ワールドです。約２０分でクリアできます。",
           "ID": "wrld_e1618e86-43c1-4764-b31a-eb03ec9cb11e",
           "Name": "学校の怪談４～Ghost stories4～"
@@ -7599,11 +7374,6 @@
       "Category": "content_sex",
       "Worlds": [
         {
-          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
-          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
-          "Name": "Just Goo Infection - Slime Infects You -"
-        },
-        {
           "Description": "｜ ACES≻≻≻AGX ｜ Light Volume ｜ RTGI ｜",
           "ID": "wrld_5f43889a-d7e4-4ecc-802d-c209c2208d1d",
           "Name": "LatexRoomPlus"
@@ -7614,24 +7384,9 @@
           "Name": "Airship_Huginn"
         },
         {
-          "Description": "Latex Bedroom",
-          "ID": "wrld_77f8c437-3b2c-4c5e-9863-0c7850ddc4c4",
-          "Name": "Latex Bedroom"
-        },
-        {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）「なぜか見ず知らずの展示会へ訪れてしまったあなた。何かを期待するように奥へと進む。」 ヒトをモノとして展示するコンセプトのチルワールドです。注意：ホラー要素はありません。本当の展示会ワールドではありません。フィクションです。",
-          "ID": "wrld_10fa7371-b4ea-4cbd-83a7-9f6ebfda026c",
-          "Name": "ヒトがモノになる空間"
-        },
-        {
           "Description": "「ショコラッタといっしょ！ Life with Chocolattaǃ」のプロジェクトがアップデートでぶっ壊れたので、ギミックを再構築するついでに作ったシンプルなNPCワールドです。今のところ、プレイヤー追従機能、自動表情変更機能、衣装変更機能があるだけです。コロナの病み上がりで作ったのでなにかしらのバグがあるかもしれません。Quest対応です。",
           "ID": "wrld_f4a64388-b97a-4e1d-a2b9-62c7e8a2b69b",
           "Name": "Just Chocolattaǃ"
-        },
-        {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）ホラーワールドやゲームワールドではありません。あなたの体験していない記憶のHUBです。現在3つのパートが稼働中。",
-          "ID": "wrld_a15a3044-db87-4bac-8d93-282e7a00e8f5",
-          "Name": "記憶の底なし沼"
         },
         {
           "Description": "（1⁄19 UdonChip Updateǃ）インスタンスオーナーは睡眠部屋に、それ以外はロビーにスポーンします。睡眠部屋にはロビーの端末に繋がるカメラと、音声をロビーに通すスイッチがあります（デフォルトでオフ）。睡眠部屋までのゲートを通るためには＄1000が必要です。許可した人を裏口から入れられる権限システムがあります。権限システムを使うためには、睡眠部屋入り口の「権限を得る」ボタンを押す必要があります。",
@@ -7657,16 +7412,6 @@
           "Description": "ショッピングモールの中にあるランジェリーショップです PickUpできるランジェリーもあります",
           "ID": "wrld_8e126798-24e6-4753-ae57-457f293444b5",
           "Name": "ランジェリーショップ lingerie shop"
-        },
-        {
-          "Description": "Deep within the bunkers of Site B lies various post-pale remains of the residential habitation zones where life-time employees lived‚ slept‚ and worked․ Warped and vulcanized remains of the site's senior staff may lie in the fray․ The world is effectively my attempt at making cozy lab dorms in the effective environment-design of the Changed universe․",
-          "ID": "wrld_b0d8ad72-b7d4-4d09-b3ae-b2e61c16333f",
-          "Name": "Changed ＆ Chill"
-        },
-        {
-          "Description": "粘体生物に襲われるワールドです。",
-          "ID": "wrld_efc26f6a-5e63-449f-9e59-c3a7d9fafa66",
-          "Name": "怪奇！粘体生物！"
         },
         {
           "Description": "チョコレートにまみれ、沈むワールドです。リスポーンでリセットされます。",
@@ -7767,11 +7512,6 @@
           "Description": "メタニウム製品でメタバースをもっと便利に。星島工業とメタニウムについて遊んで学べるバーチャル工場見学ワールドです。実在の企業・団体とは一切関係ありません。ホラー要素を含みます。",
           "ID": "wrld_1ef8aa55-5469-4866-b8db-8032c33baa24",
           "Name": "星島工業工場見学"
-        },
-        {
-          "Description": "バカえぐいプレスなかよし",
-          "ID": "wrld_7edc99f7-653f-4939-8d2e-30c72c69e8e9",
-          "Name": "バカえぐいプレスなかよし"
         },
         {
           "Description": "こっくりさんの噂がある学校ワールドです。約２０分でクリアできます。",
@@ -8456,7 +8196,7 @@
         {
           "Description": "⁄⁄ You Need FBT To Play ǃǃǃ ⁄⁄",
           "ID": "wrld_f04946ee-a19e-4323-8cf6-17de8d7991b9",
-          "Name": "Dance Vrush -【WIP 4․49】- Test 9 World"
+          "Name": "Dance Vrush -【WIP 4․51】- Test 9 World"
         },
         {
           "Description": "just dance fitness workout ppd jd",
@@ -8471,7 +8211,7 @@
         {
           "Description": "⁄⁄ You Need FBT To Play ǃǃǃ ⁄⁄",
           "ID": "wrld_f04946ee-a19e-4323-8cf6-17de8d7991b9",
-          "Name": "Dance Vrush -【WIP 4․49】- Test 9 World"
+          "Name": "Dance Vrush -【WIP 4․51】- Test 9 World"
         }
       ]
     },
@@ -8518,11 +8258,6 @@
     {
       "Category": "darts",
       "Worlds": [
-        {
-          "Description": "不定期RPイベント＂CW-SnackC-＂使用ワールド。落ち着く雰囲気を楽しめる隠れたバー。 イベント仕様の為非公開かつ、センシティブに該当する行為での使用は禁止です。 ＂CW-SnackC-＂ is a world used for irregular RP events․ It's a hidden bar where you can enjoy a calming atmosphere․ Due to its event-specific nature‚ it is private and prohibited for use in any behavior deemed sensitive․ Created by yanagi_the55th⁄Client by Shaile-ｼｪｲﾙ-․ A cozy retreat where you can enjoy a relaxed atmosphere․",
-          "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
-          "Name": "Hidden Bar【SnackC】"
-        },
         {
           "Description": "ダーツが上手くなったように感じられるワールドです。チル、ドッキリ、動画撮影に。World BGM˸ Room No․ 184 by MIDORI6C",
           "ID": "wrld_58c0f192-5c6d-43fa-9293-e29f3c55398b",
@@ -8827,11 +8562,6 @@
           "Description": "海の中に沈む図書館をイメージしたワールドです。チルしていってね！",
           "ID": "wrld_f4ae300f-b0c7-4c3f-b207-5654a2d84d9c",
           "Name": "Underwater Library"
-        },
-        {
-          "Description": "電子の街『深海』の物語を体験するイベントワールド․CV水縹アオ․VR深海プロジェクト",
-          "ID": "wrld_1fc47ba6-26b6-4f70-9c5a-56b30d88065f",
-          "Name": "VR読劇-深海のアリア-"
         }
       ]
     },
@@ -8892,16 +8622,6 @@
           "Description": "「砂漠のじたばた作戦」は 砂漠を舞台にしたシューティングゲームです。笑いとアクションが満載のこのワールドをお楽しみください！ Desert Commotion Operation is a humorous shooting game set in the desert․ Enjoy this world full of laughs and actionǃǃ ＝＝ 今回のアップデートはPC版のみとなります。This update is available for the PC version only․ ＝＝",
           "ID": "wrld_e096a18b-75b2-4c1b-b48c-e3c5e25f8ba5",
           "Name": "砂漠のじたばた作戦（2․0） ～Desert Commotion Operation（2․0）"
-        }
-      ]
-    },
-    {
-      "Category": "detective",
-      "Worlds": [
-        {
-          "Description": "【現在不具合の報告があるので非公開中です】これはあなたが探偵として事件を推理する、短編ミステリワールドです。 星空館で起きた密室殺人。謎を解くカギは五芒星が指し示す。 想定プレイ時間：～６０分 動作：グローバル 「楽曲˸柊情景音楽店」【一部のプレイヤーで上手く動作しない場合、最初にワールドに入ったプレイヤーであれば動作する可能性があります】",
-          "ID": "wrld_e19c67ef-ac19-4643-a7b0-3a39ed31450b",
-          "Name": "推理・謎解きワールド『五芒星の殺人』"
         }
       ]
     },
@@ -9484,16 +9204,6 @@
       "Category": "ema",
       "Worlds": [
         {
-          "Description": "Happy New Year2024 胡椒神社",
-          "ID": "wrld_39140c64-4737-4698-9511-bd70d34c804b",
-          "Name": "Happy New Year2024 胡椒神社"
-        },
-        {
-          "Description": "Happy New Year2025 胡椒神社 絵馬、おみくじ、オリジナル年賀状を作る場所あり",
-          "ID": "wrld_f8a183eb-67cd-4693-95e1-f8ab2ff853a8",
-          "Name": "Happy New Year2025 胡椒神社"
-        },
-        {
           "Description": "Happy New Year2026 胡椒神社 絵馬、おみくじ、オリジナル年賀状を作る場所あり",
           "ID": "wrld_d841a110-93a0-4cfa-b853-c2d2c1815740",
           "Name": "Happy New Year2026 胡椒神社"
@@ -9994,11 +9704,6 @@
           "Name": "Gallery 2718702a"
         },
         {
-          "Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
-          "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
-          "Name": "VRC PIXELART EXHIBITION"
-        },
-        {
           "Description": "Anique Museumは、デジタルとリアルを融合し、日本のアニメ、マンガ、ゲームコンテンツを幅広く展示するとともに、クリエイターとの積極的なコラボレーションを通じて新たな文化創造を育み、没入感とアクセス性に優れた体験を提供することを目指しています。 The Anique Museum aims to provide an more immersive experience by combining digital and physical․ We will collaborate with a wide range of Japanese anime‚ manga‚ and game contents‚ and fostering new cultural creations through active collaboration with creators․",
           "ID": "wrld_ed1acb6a-fc2e-4d07-8ce7-86c36420fe47",
           "Name": "Anique Museum"
@@ -10048,11 +9753,6 @@
     {
       "Category": "experience",
       "Worlds": [
-        {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）ホラーワールドやゲームワールドではありません。あなたの体験していない記憶のHUBです。現在3つのパートが稼働中。",
-          "ID": "wrld_a15a3044-db87-4bac-8d93-282e7a00e8f5",
-          "Name": "記憶の底なし沼"
-        },
         {
           "Description": "Alpha v1․02",
           "ID": "wrld_bd51a16b-1b06-4a3e-b1a1-436873454c19",
@@ -10496,7 +10196,7 @@
         {
           "Description": "⁄⁄ You Need FBT To Play ǃǃǃ ⁄⁄",
           "ID": "wrld_f04946ee-a19e-4323-8cf6-17de8d7991b9",
-          "Name": "Dance Vrush -【WIP 4․49】- Test 9 World"
+          "Name": "Dance Vrush -【WIP 4․51】- Test 9 World"
         }
       ]
     },
@@ -10577,11 +10277,6 @@
           "Description": "Light Volume OK - 次回の祇園通りワールド恒例・大晦日カウントダウン花火イベントは、2026年12月31日に開催されます！ 午前0時ちょうど、天から駆け降りる神秘の馬が、午（うま）年の幕開けを華やかに告げます！ イベントは23時50分（10分前）から始まりますので、どうぞお見逃しなく！ǃ",
           "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
           "Name": "Gion Street - 祇園通り日本"
-        },
-        {
-          "Description": "OHǃ MY CAR ［Update QVPen to 3․3․3］v1․1․1 Quest対応",
-          "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
-          "Name": "Break the car"
         },
         {
           "Description": "A collaboration with CyanLaser Lakuza․ Take a ride through this magical adventure and unearth the mysterious force behind the curse․ Raindance Award Winner․",
@@ -11219,11 +10914,6 @@
           "Name": "Yokosuka Museum of Art -横須賀美術館-"
         },
         {
-          "Description": "春限定公開。神隠しシリーズ4作目。BGMがバグってます音量注意。",
-          "ID": "wrld_5eb5a1c1-51ab-4c03-9ffe-db8050672df7",
-          "Name": "神隠しの幻灯雫"
-        },
-        {
           "Description": "素粒子から宇宙まで、スケールを旅するワールドです。 Created by S_Asagiri",
           "ID": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8",
           "Name": "Scale Journey"
@@ -11724,11 +11414,6 @@
       "Category": "flower",
       "Worlds": [
         {
-          "Description": "タンポポの花言葉は神託、真心の愛、そして＂ ＂。これはきっと新たな始まりに過ぎないのかもしれない。（BGM - https˸⁄⁄youtu․be⁄jDnCHQk4Kp8?si＝7ieljQC1Et58AZ_G）",
-          "ID": "wrld_fc16e4bb-ebde-4901-b7c9-538922a219a5",
-          "Name": "たんぽぽの旅立ち - A New Journey Of Dandelions"
-        },
-        {
           "Description": "不帰",
           "ID": "wrld_6118f469-ab50-496c-908a-7ad1433df816",
           "Name": "D3CED1"
@@ -11912,11 +11597,6 @@
           "Description": "217作目は深夜のラーメンショップ。美味しいラーメンを召し上がれ。The 217th world is a late night ramen shop․ Enjoy delicious ramen․ 2025⁄2⁄25アプデでサイン追加、遊びやすいように厨房一部コライダ除去しました。",
           "ID": "wrld_930ae963-aee0-48db-9f70-ca1b5877ac88",
           "Name": "ラーメン屋けせど-CHESED's Ramen Shop-"
-        },
-        {
-          "Description": "ティロリミックス2025の公開を記念してつくられた、日本マクドナルド初の公式VRChatワールドです。 バーチャルポテトを食べたり、フォトスポットで撮影を楽しんだり、ご自由にお楽しみください！ 撮影した写真や動画をSNS投稿する際はぜひ ＃バーチャルティロリワールド のハッシュタグをお願いします 公開期間：2025年6月17日まで",
-          "ID": "wrld_db9f0264-393f-4de1-96f2-7979fd4b4667",
-          "Name": "McDonald's Virtual Tirori World （マクドナルド ティロリミックス）"
         },
         {
           "Description": "50円を触れさせると豚汁になります",
@@ -12229,11 +11909,6 @@
           "Name": "Padded Rubber Room"
         },
         {
-          "Description": "Deep within the bunkers of Site B lies various post-pale remains of the residential habitation zones where life-time employees lived‚ slept‚ and worked․ Warped and vulcanized remains of the site's senior staff may lie in the fray․ The world is effectively my attempt at making cozy lab dorms in the effective environment-design of the Changed universe․",
-          "ID": "wrld_b0d8ad72-b7d4-4d09-b3ae-b2e61c16333f",
-          "Name": "Changed ＆ Chill"
-        },
-        {
           "Description": "Evergreen Ceremony",
           "ID": "wrld_810e8291-4c5f-4f84-a0ee-66b3f21fbac1",
           "Name": "Evergreen Ceremony"
@@ -12314,11 +11989,6 @@
           "Name": "Re˸collection2 - リコレクション2 -"
         },
         {
-          "Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
-          "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
-          "Name": "VRC PIXELART EXHIBITION"
-        },
-        {
           "Description": "This is gallery of tilt brush's art by artist 'Jaehyuk Lee'‚ and directing by VRC streamer GreatMoonAroma․ if you like 3d art․ enjoyǃ",
           "ID": "wrld_ecc29d21-e4c1-4a4a-ae48-46de7b7bc6b1",
           "Name": "VR art 'New place'"
@@ -12369,11 +12039,6 @@
           "Name": "こみ～や・る～む -Komiyaneko＆Miyasuke Chill Room-"
         },
         {
-          "Description": "「3⁄15（日）が公開最終日となります。」VRChat写真展示ワールドです。 この展示は、VRChatのパブリックワールドで出会った人たちを撮影した写真と、そこから生まれた言葉で構成されています。 ご不明な点がございましたら、Xまでご連絡ください。 X˸ ＠mizoregoro25496 感想等は「＃DearYouMyPolaris」でお願いします。",
-          "ID": "wrld_a05392ea-bcd0-4312-8aa9-68e5d79db5ce",
-          "Name": "親愛なるきみはポラリス-VRChat写真展示-"
-        },
-        {
           "Description": "スクエアの良さが伝われば幸いです。 「＃正方形に納まる世界展」で感想とよかったと思った写真をツイートしてもらえると嬉しいです。",
           "ID": "wrld_1177972c-e9a0-4582-931e-220df1ac21f1",
           "Name": "正方形に納まる世界、photo gallery -takakong-"
@@ -12422,11 +12087,6 @@
           "Description": "メダルゲームで遊べます 待ち合わせや時間を潰したい時に是非 基本ローカル処理です BGM：魔王魂",
           "ID": "wrld_d10459d4-1316-4427-a1a9-22d8e97cef0c",
           "Name": "MedalGame（Udon）"
-        },
-        {
-          "Description": "【現在不具合の報告があるので非公開中です】これはあなたが探偵として事件を推理する、短編ミステリワールドです。 星空館で起きた密室殺人。謎を解くカギは五芒星が指し示す。 想定プレイ時間：～６０分 動作：グローバル 「楽曲˸柊情景音楽店」【一部のプレイヤーで上手く動作しない場合、最初にワールドに入ったプレイヤーであれば動作する可能性があります】",
-          "ID": "wrld_e19c67ef-ac19-4643-a7b0-3a39ed31450b",
-          "Name": "推理・謎解きワールド『五芒星の殺人』"
         },
         {
           "Description": "Shopping Brawl simulates all the ＂fun ＆ joy＂ of Black Friday Holiday Shopping․ Buy all the items on your list and try to save as much money as possible․",
@@ -12834,11 +12494,6 @@
           "Name": "R․B․T_V2［ハイスピード異能バトル］［PC‚Android］"
         },
         {
-          "Description": "Now updated in Unity 2022 and fixed spawn issueǃ Please don't push the buttonǃ It is really annoyingǃ A single player world․ 10-20 minutes․ （v1․0․1） Disclaimer˸ The game will have issues in multiplayer and Quest is untestedǃ Please report bugs in our Discord server˸ discord․com⁄invite⁄tbpQapfyxt",
-          "ID": "wrld_32660b7a-e980-4cb3-b95e-4d51b2682459",
-          "Name": "Please don't push the buttonǃ"
-        },
-        {
           "Description": "まめひなたで三輪車レースができます はしれ",
           "ID": "wrld_9c756345-c7d7-424a-845d-aeb4a05e5a79",
           "Name": "豆日向麗心愚"
@@ -13022,11 +12677,6 @@
           "Description": "姿華やか、心晴れやか。ハヰカラ・モガでほつと一息つきましよう。",
           "ID": "wrld_62058fa4-6763-43dc-8fad-646ab1c76cc3",
           "Name": "ハヰカラ・モガ"
-        },
-        {
-          "Description": "迫りくる難読漢字を読みがなミサイルで迎撃せよ！ 2024⁄09⁄03 現在ワールドのギミックが壊れていてゲームを進行できない不具合を確認しております。 Unityプロジェクトも破損してしまっているため、改修も不可能となっております。9⁄2に私のTwitter（現˸X）にて不具合の対処法を動画で公開していますので、そちらをご確認の上、ワールドのセットアップを各自していただくようお願いいたします。",
-          "ID": "wrld_c2b63c84-61a4-48bf-9b8c-d70a7db08207",
-          "Name": "バチャツアーズ - VirtualTours"
         },
         {
           "Description": "［JP］1枚謎がメインのシンプルな謎解きワールド第2弾です。たくさん謎を解いていこう。前作同様、すべての謎はワールド内でヒントを確認できます。全問題の解説はnoteに記載しています。https˸⁄⁄note․com⁄purpriprn⁄n⁄nd9d09cdcc2ab",
@@ -13264,11 +12914,6 @@
           "Name": "脱出ゲーム「謎の美術館からの脱出」"
         },
         {
-          "Description": "OHǃ MY CAR ［Update QVPen to 3․3․3］v1․1․1 Quest対応",
-          "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
-          "Name": "Break the car"
-        },
-        {
           "Description": "アナグラムの一種である、チマタグラムを45問解くワールドです。 すべてクリアする必要はないので、気軽に遊んでください。 言葉に完全に依存した問題が続きます。 ワールド動作：ローカル 1プレイの時間˸30分～諦めるまで 追記˸ 2025⁄1⁄3 42問目を別の問題に変更。",
           "ID": "wrld_d1781dd5-bf7b-4868-9b06-db32237e24b4",
           "Name": "チマタグラムワールド「食べちまた」"
@@ -13469,11 +13114,6 @@
           "Name": "KEYWORDS【 JP ⁄ EN 】"
         },
         {
-          "Description": "Fight with your past selves to raid the enemy baseǃ Made with help from Chim-Cham‚ Fins‚ and Fionna․ Created in less than a week for the VRCPrefabs Experiments in Time World Jam․",
-          "ID": "wrld_104a14a5-a9d8-4bd7-ab9f-3d5febd9572c",
-          "Name": "Army of You"
-        },
-        {
           "Description": "普通じゃない謎解きワールドです。難易度が高いため、謎解きに慣れている人向けのワールドです。知識はほぼ不要なので、貴方の謎解き力、そして謎解きの理解度が全ての結果を握ります。 【難易度：かなり難しい】【知識：ほぼ不要】【クリアタイム目安：40分～120分】【ギミック：ローカル（協力可）】【 ＃VRC_NotNormal 】",
           "ID": "wrld_2e467548-90f6-4a53-8de2-90b6536c9595",
           "Name": "ふつうの？？？？なぞとき"
@@ -13482,11 +13122,6 @@
           "Description": "射撃練習ができるワールドです。Quest対応。Udon製。Minigun追加。",
           "ID": "wrld_538a6af4-e414-4a86-a64e-2a3118836209",
           "Name": "ShootingRangeVRC"
-        },
-        {
-          "Description": "そこにあるのは4枚のカード。日本語話者向け謎解きワールドです。想定クリア時間˸1時間くらい ＃VRC_Fake",
-          "ID": "wrld_a50146fe-4730-4ea2-a4e2-1870751e232b",
-          "Name": "謎解きワールド Fake"
         },
         {
           "Description": "数々の謎を解き明かし、部屋だらけの奇妙な空間から脱出せよ。 ⁄途中参加可能 ⁄想定クリアタイム˸ 3時間 ⁄VR・Desktop対応⁄【不具合報告は＠uzaaakiまで】",
@@ -13562,11 +13197,6 @@
           "Description": "選べる難易度！12問の謎を解いてより多くの敵を倒そう！ ＃VRC_なぞクエ",
           "ID": "wrld_fdac92e2-d1de-4010-bdb1-4f8d8be0229c",
           "Name": "なぞときクエスト"
-        },
-        {
-          "Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
-          "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-          "Name": "R․E․P․O․ VRC"
         },
         {
           "Description": "無料で遊べるVazaR Time 毎週月曜21˸00～23˸59！VazaRでVRC連携すると遊べるよ！ VRギブトレ - GiveMeTreasure Board game World․ Play time 15 to 30 minutes․ 2 to 4 players․ Powered by CatsUdon․ VR Production Virtual Party Inc․ Original by SUSABI GAMES",
@@ -13826,7 +13456,7 @@
         {
           "Description": "⁄⁄ You Need FBT To Play ǃǃǃ ⁄⁄",
           "ID": "wrld_f04946ee-a19e-4323-8cf6-17de8d7991b9",
-          "Name": "Dance Vrush -【WIP 4․49】- Test 9 World"
+          "Name": "Dance Vrush -【WIP 4․51】- Test 9 World"
         },
         {
           "Description": "制限時間なし ⁄ 途中参加可能 ⁄ 難易度˸人による ⁄ エリア制限はあまり無いためチルワールドとしてもご利用いただけます ⁄ QvPen ⁄ iwaSync3 ⁄ RBS SleepKit 2",
@@ -14249,11 +13879,6 @@
           "Name": "Missile Surfer"
         },
         {
-          "Description": "ベータ版です。 馬の配合、ベットシステム、レース、血統表、ステータス、馬データの共有、調教、観戦など色々遊べます。 β版なので不具合がある可能性があります！",
-          "ID": "wrld_bb27c42c-3ff5-4f5a-83ce-483cd6d5db49",
-          "Name": "Horse Racing Game World （β）"
-        },
-        {
           "Description": "A private lunar base at the moon's north pole that supports another base that extract helium-3 from the moon․ Its purpose is to assist by delivering and transporting cargo with its lunar rover․",
           "ID": "wrld_13cabd83-9f05-44a0-87e3-716aa3fc484c",
           "Name": "StarlightLab"
@@ -14401,16 +14026,6 @@
       ]
     },
     {
-      "Category": "game_jam",
-      "Worlds": [
-        {
-          "Description": "Now updated in Unity 2022 and fixed spawn issueǃ Please don't push the buttonǃ It is really annoyingǃ A single player world․ 10-20 minutes․ （v1․0․1） Disclaimer˸ The game will have issues in multiplayer and Quest is untestedǃ Please report bugs in our Discord server˸ discord․com⁄invite⁄tbpQapfyxt",
-          "ID": "wrld_32660b7a-e980-4cb3-b95e-4d51b2682459",
-          "Name": "Please don't push the buttonǃ"
-        }
-      ]
-    },
-    {
       "Category": "gamejam",
       "Worlds": [
         {
@@ -14457,11 +14072,6 @@
           "Description": "かの有名な文豪は過去にここを訪れた。",
           "ID": "wrld_83695ebc-0828-4855-a5fb-b5634ff144eb",
           "Name": "静寂の庭園-風雅のひととき-"
-        },
-        {
-          "Description": "タンポポの花言葉は神託、真心の愛、そして＂ ＂。これはきっと新たな始まりに過ぎないのかもしれない。（BGM - https˸⁄⁄youtu․be⁄jDnCHQk4Kp8?si＝7ieljQC1Et58AZ_G）",
-          "ID": "wrld_fc16e4bb-ebde-4901-b7c9-538922a219a5",
-          "Name": "たんぽぽの旅立ち - A New Journey Of Dandelions"
         },
         {
           "Description": "japanese garden 雪月花 ゆったりとした空間で心を落ち着けましょう。庭には入らないでね。降水確率 30％ Calm your mind in a relaxing space․ Please do not enter the garden․",
@@ -14641,32 +14251,12 @@
       ]
     },
     {
-      "Category": "goo",
-      "Worlds": [
-        {
-          "Description": "粘体生物に襲われるワールドです。",
-          "ID": "wrld_efc26f6a-5e63-449f-9e59-c3a7d9fafa66",
-          "Name": "怪奇！粘体生物！"
-        }
-      ]
-    },
-    {
       "Category": "goods",
       "Worlds": [
         {
           "Description": "フレンドと一緒に撮った写真がリアルグッズに！簡単操作でアクリルキーホルダーを発注できるデータが作れるワールドです。 Photos taken with friends become real goodsǃ This is a world where you can create data that allows you to order acrylic keychains with simple operations․",
           "ID": "wrld_6075be77-2fa3-44c2-8204-95905bb3fd53",
           "Name": "MyAvatarGoods"
-        }
-      ]
-    },
-    {
-      "Category": "gootf",
-      "Worlds": [
-        {
-          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
-          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
-          "Name": "Just Goo Infection - Slime Infects You -"
         }
       ]
     },
@@ -14942,11 +14532,6 @@
           "Description": "Fear of Fire˸ A roguelike in vrchatǃ Defeat monsters and run around collecting items with your friendsǃ Be sure to find the teleporter and defeat the boss to get money ＆ unlock itemsǃǃ",
           "ID": "wrld_c3dda9f9-7615-41e4-bbfa-a2cf5b77b9fb",
           "Name": "Fear of Fire"
-        },
-        {
-          "Description": "Fight with your past selves to raid the enemy baseǃ Made with help from Chim-Cham‚ Fins‚ and Fionna․ Created in less than a week for the VRCPrefabs Experiments in Time World Jam․",
-          "ID": "wrld_104a14a5-a9d8-4bd7-ab9f-3d5febd9572c",
-          "Name": "Army of You"
         }
       ]
     },
@@ -15241,21 +14826,6 @@
       ]
     },
     {
-      "Category": "happynewyear",
-      "Worlds": [
-        {
-          "Description": "Happy New Year2024 胡椒神社",
-          "ID": "wrld_39140c64-4737-4698-9511-bd70d34c804b",
-          "Name": "Happy New Year2024 胡椒神社"
-        },
-        {
-          "Description": "Happy New Year2025 胡椒神社 絵馬、おみくじ、オリジナル年賀状を作る場所あり",
-          "ID": "wrld_f8a183eb-67cd-4693-95e1-f8ab2ff853a8",
-          "Name": "Happy New Year2025 胡椒神社"
-        }
-      ]
-    },
-    {
       "Category": "harim",
       "Worlds": [
         {
@@ -15292,26 +14862,6 @@
           "Description": "Chill treehouse",
           "ID": "wrld_45801e39-517e-4cca-b915-ae720825d88c",
           "Name": "Moonlit Perch -月明かりの泊まり木-"
-        }
-      ]
-    },
-    {
-      "Category": "hatuhinode",
-      "Worlds": [
-        {
-          "Description": "Happy New Year2024 胡椒神社",
-          "ID": "wrld_39140c64-4737-4698-9511-bd70d34c804b",
-          "Name": "Happy New Year2024 胡椒神社"
-        }
-      ]
-    },
-    {
-      "Category": "hatumoude",
-      "Worlds": [
-        {
-          "Description": "Happy New Year2025 胡椒神社 絵馬、おみくじ、オリジナル年賀状を作る場所あり",
-          "ID": "wrld_f8a183eb-67cd-4693-95e1-f8ab2ff853a8",
-          "Name": "Happy New Year2025 胡椒神社"
         }
       ]
     },
@@ -15547,11 +15097,6 @@
           "Description": "自分好みにカスタマイズしてゆったりできるプライベートな空間です。 BOOTH Room˸ a new‚ cozy space for you to customize and relaxǃ ＃VRCLightVolumesReady",
           "ID": "wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521",
           "Name": "BOOTH Room"
-        },
-        {
-          "Description": "例のプールで生活できます",
-          "ID": "wrld_3fcdb5aa-e312-4a08-834f-24174e8b45a5",
-          "Name": "Just 例のプール生活"
         },
         {
           "Description": "chill ⁄ using ˸ XOR - Room 8",
@@ -16044,11 +15589,6 @@
           "Name": "Ticket To Nowhere"
         },
         {
-          "Description": "学校の七不思議のひとつ『異世界階段』の噂がある学校のワールドです。約１５分でクリアできます。",
-          "ID": "wrld_1b49a852-f6ae-481e-9611-71e1476cbaa5",
-          "Name": "学校の怪談～Ghost stories～"
-        },
-        {
           "Description": "Udon PVEゾンビサバイバルホラーゲーム プレイ時間は30～50分想定です。（Made by Udon PVE Zombie Survival Horror Game playing time is 30-50 minutes․）",
           "ID": "wrld_843876dd-e2f9-4f56-b603-0860fe0686a9",
           "Name": "VRC OF THE DEAD"
@@ -16102,11 +15642,6 @@
           "Description": "14作目 わたしのこと、気づいてくれた？",
           "ID": "wrld_f473bdea-ef31-4794-8a95-664ff04c193c",
           "Name": "【VRMV】無意識レクイエム"
-        },
-        {
-          "Description": "wip ⁄ local ⁄ QVpen‚Player‚Mirror‚Image tablet ⁄ Inspired by Araisan Mansion（アライさんマンション） ⁄ open ˸ ~???",
-          "ID": "wrld_24b1bf80-71ed-45d5-8afe-9b98b35e645f",
-          "Name": "損失前"
         },
         {
           "Description": "Two fishing vessels sail on a river that holds a surprise․ Reference˸ ＂Harbour＂ by Klaufir I wanted to make this world because I've never seen such a scary scene like that in vrchat․ 18⁄02⁄2024˸ New animation added ＆ small visual improvement․",
@@ -16197,36 +15732,6 @@
           "Description": "だ ま さ れ る な ----horror",
           "ID": "wrld_2689501d-106a-4a9e-aaf0-dc8f636273b1",
           "Name": "どっきり探偵-ちょっぴりたわわな事件-"
-        }
-      ]
-    },
-    {
-      "Category": "horse",
-      "Worlds": [
-        {
-          "Description": "ベータ版です。 馬の配合、ベットシステム、レース、血統表、ステータス、馬データの共有、調教、観戦など色々遊べます。 β版なので不具合がある可能性があります！",
-          "ID": "wrld_bb27c42c-3ff5-4f5a-83ce-483cd6d5db49",
-          "Name": "Horse Racing Game World （β）"
-        }
-      ]
-    },
-    {
-      "Category": "horse_race",
-      "Worlds": [
-        {
-          "Description": "ベータ版です。 馬の配合、ベットシステム、レース、血統表、ステータス、馬データの共有、調教、観戦など色々遊べます。 β版なので不具合がある可能性があります！",
-          "ID": "wrld_bb27c42c-3ff5-4f5a-83ce-483cd6d5db49",
-          "Name": "Horse Racing Game World （β）"
-        }
-      ]
-    },
-    {
-      "Category": "horse_racing",
-      "Worlds": [
-        {
-          "Description": "ベータ版です。 馬の配合、ベットシステム、レース、血統表、ステータス、馬データの共有、調教、観戦など色々遊べます。 β版なので不具合がある可能性があります！",
-          "ID": "wrld_bb27c42c-3ff5-4f5a-83ce-483cd6d5db49",
-          "Name": "Horse Racing Game World （β）"
         }
       ]
     },
@@ -16526,16 +16031,6 @@
       ]
     },
     {
-      "Category": "indoors",
-      "Worlds": [
-        {
-          "Description": "Deep within the bunkers of Site B lies various post-pale remains of the residential habitation zones where life-time employees lived‚ slept‚ and worked․ Warped and vulcanized remains of the site's senior staff may lie in the fray․ The world is effectively my attempt at making cozy lab dorms in the effective environment-design of the Changed universe․",
-          "ID": "wrld_b0d8ad72-b7d4-4d09-b3ae-b2e61c16333f",
-          "Name": "Changed ＆ Chill"
-        }
-      ]
-    },
-    {
       "Category": "industrial",
       "Worlds": [
         {
@@ -16689,11 +16184,6 @@
           "Name": "Aeterna Visio Nocturna"
         },
         {
-          "Description": "タンポポの花言葉は神託、真心の愛、そして＂ ＂。これはきっと新たな始まりに過ぎないのかもしれない。（BGM - https˸⁄⁄youtu․be⁄jDnCHQk4Kp8?si＝7ieljQC1Et58AZ_G）",
-          "ID": "wrld_fc16e4bb-ebde-4901-b7c9-538922a219a5",
-          "Name": "たんぽぽの旅立ち - A New Journey Of Dandelions"
-        },
-        {
           "Description": "忘れ去られた島で一人静かに暮らす少女の物語。迎えの来ない彼女を慰めるかのように、今日もどこからか本が舞い降りてくる。",
           "ID": "wrld_74b0e92d-c3c9-463a-9782-b3878fb89a8c",
           "Name": "Fallen Books"
@@ -16784,11 +16274,6 @@
           "Name": "Time Breach"
         },
         {
-          "Description": "Fight with your past selves to raid the enemy baseǃ Made with help from Chim-Cham‚ Fins‚ and Fionna․ Created in less than a week for the VRCPrefabs Experiments in Time World Jam․",
-          "ID": "wrld_104a14a5-a9d8-4bd7-ab9f-3d5febd9572c",
-          "Name": "Army of You"
-        },
-        {
           "Description": "［EN⁄JP］ ［STORY］ ［1-8 Players］［SPACEJAM2］ -- Aboard a research station‚ experience the realities of humanA․I․ coexistence during long-distance space travel․ An interactive story exploring potential futures we may face in interstellar missions․․․ （（20 min~ Experience））",
           "ID": "wrld_e1dbf8ef-81dd-4f14-a2c0-24954aac668e",
           "Name": "SENTRA"
@@ -16852,11 +16337,6 @@
           "Description": "Welcome to Urban Japan Cityǃ Explore this old city with its neon lights illuminating the city as light rain falls and is reflected on the wet ground․ - V2․0 - Fixed Road ＆ Lightning＋ Quest Release",
           "ID": "wrld_eb39a7ec-8967-44d7-b5c5-6a51348ce69f",
           "Name": "Urban Japan City"
-        },
-        {
-          "Description": "ビールに屋台の焼きそば、そして桜！お花見とは実によい物 フレンドさんと飲み会してね",
-          "ID": "wrld_f81ebd9b-bd38-44e9-9487-91033fc75e7f",
-          "Name": "Justお花見"
         },
         {
           "Description": "170作目は花見ができる屋形舟。景色が流れる中桜を見ながら和の癒しの時間をお過ごしください。ビール、焼肉、すき焼き、うな重などあり。V睡部屋も。 The 170th world is a houseboat where you can enjoy cherry blossom viewing․ Please spend a relaxing time in Japanese style while watching the cherry blossoms as the scenery flows by․ There are beer‚ yakiniku‚ sukiyaki gimmicks‚ eel jus‚ etc․",
@@ -17047,16 +16527,6 @@
           "Description": "孤島に建つ小さな和風のチルワールドです。大鳥居を望む露天風呂も。 ⁄ A small‚ Japanese-style chill world on a remote island‚ with an open-air hot spring overlooking a grand torii gate․",
           "ID": "wrld_e3012b46-171f-434a-9e38-d22a204aaf61",
           "Name": "なごみ屋。"
-        },
-        {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
-        },
-        {
-          "Description": "学校の七不思議のひとつ『異世界階段』の噂がある学校のワールドです。約１５分でクリアできます。",
-          "ID": "wrld_1b49a852-f6ae-481e-9611-71e1476cbaa5",
-          "Name": "学校の怪談～Ghost stories～"
         },
         {
           "Description": "これまでに出てきた謎解きワールドで謎が作られている謎解きワールドです。難易度：高め 全7問 万が一ミスと思うかもしれませんが、ミスではありません。＃VRC_走馬灯",
@@ -17342,11 +16812,6 @@
           "Description": "全 8 問 ＋ α の謎解きワールドです。クリアには日本語の知識が必要です。想定プレイ時間 60 分程度 ギミックはすべてローカルです。全問ヒントありです。",
           "ID": "wrld_688d0137-f54c-4728-88e3-783fe7f4a7c5",
           "Name": "謎解きワールド「Issue」"
-        },
-        {
-          "Description": "例のプールで生活できます",
-          "ID": "wrld_3fcdb5aa-e312-4a08-834f-24174e8b45a5",
-          "Name": "Just 例のプール生活"
         },
         {
           "Description": "謎解きワールドのポータルハブです。謎ワを探したり，待ち合わせに使ったりしてください！不具合・削除依頼はご連絡いただけたら嬉しいです！This is a riddle world portal hub․ The worlds related to Nazotoki‚ a Japanese-style riddle‚ are mainly introduced․",
@@ -18066,16 +17531,6 @@
       ]
     },
     {
-      "Category": "kanji",
-      "Worlds": [
-        {
-          "Description": "迫りくる難読漢字を読みがなミサイルで迎撃せよ！ 2024⁄09⁄03 現在ワールドのギミックが壊れていてゲームを進行できない不具合を確認しております。 Unityプロジェクトも破損してしまっているため、改修も不可能となっております。9⁄2に私のTwitter（現˸X）にて不具合の対処法を動画で公開していますので、そちらをご確認の上、ワールドのセットアップを各自していただくようお願いいたします。",
-          "ID": "wrld_c2b63c84-61a4-48bf-9b8c-d70a7db08207",
-          "Name": "バチャツアーズ - VirtualTours"
-        }
-      ]
-    },
-    {
       "Category": "karaoke",
       "Worlds": [
         {
@@ -18217,26 +17672,6 @@
           "Description": "After all the invasion and war․․․",
           "ID": "wrld_d4cbf224-21ce-4482-bb0c-1e9885a9958a",
           "Name": "The colony - Flat 804"
-        }
-      ]
-    },
-    {
-      "Category": "kokusai",
-      "Worlds": [
-        {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
-        }
-      ]
-    },
-    {
-      "Category": "kokusaidori",
-      "Worlds": [
-        {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
         }
       ]
     },
@@ -18479,19 +17914,9 @@
           "Name": "LatexRoomPlus"
         },
         {
-          "Description": "Latex Bedroom",
-          "ID": "wrld_77f8c437-3b2c-4c5e-9863-0c7850ddc4c4",
-          "Name": "Latex Bedroom"
-        },
-        {
           "Description": "Happy Night 幸福安心委员会",
           "ID": "wrld_6d08e6ee-4467-45b9-8988-3b537b164387",
           "Name": "Happy Night 幸福安心委员会"
-        },
-        {
-          "Description": "Deep within the bunkers of Site B lies various post-pale remains of the residential habitation zones where life-time employees lived‚ slept‚ and worked․ Warped and vulcanized remains of the site's senior staff may lie in the fray․ The world is effectively my attempt at making cozy lab dorms in the effective environment-design of the Changed universe․",
-          "ID": "wrld_b0d8ad72-b7d4-4d09-b3ae-b2e61c16333f",
-          "Name": "Changed ＆ Chill"
         }
       ]
     },
@@ -18767,11 +18192,6 @@
           "Description": "Not horror world",
           "ID": "wrld_83ca36bf-69f5-4c4d-bf0a-1d11a03ed2aa",
           "Name": "Subway"
-        },
-        {
-          "Description": "wip ⁄ local ⁄ QVpen‚Player‚Mirror‚Image tablet ⁄ Inspired by Araisan Mansion（アライさんマンション） ⁄ open ˸ ~???",
-          "ID": "wrld_24b1bf80-71ed-45d5-8afe-9b98b35e645f",
-          "Name": "損失前"
         },
         {
           "Description": "「（他の者たちは図書館と呼んでいるが）宇宙は、真ん中に大きな換気孔があり、きわめて低い手すりで囲まれた、不定数の、おそらく無限数の六角形の回廊で成り立っている。」J․L․ボルヘス、鼓直 訳「バベルの図書館」（『伝奇集』所収）",
@@ -19316,16 +18736,6 @@
       ]
     },
     {
-      "Category": "mcdonald's",
-      "Worlds": [
-        {
-          "Description": "ティロリミックス2025の公開を記念してつくられた、日本マクドナルド初の公式VRChatワールドです。 バーチャルポテトを食べたり、フォトスポットで撮影を楽しんだり、ご自由にお楽しみください！ 撮影した写真や動画をSNS投稿する際はぜひ ＃バーチャルティロリワールド のハッシュタグをお願いします 公開期間：2025年6月17日まで",
-          "ID": "wrld_db9f0264-393f-4de1-96f2-7979fd4b4667",
-          "Name": "McDonald's Virtual Tirori World （マクドナルド ティロリミックス）"
-        }
-      ]
-    },
-    {
       "Category": "mct",
       "Worlds": [
         {
@@ -19457,16 +18867,6 @@
           "Description": "The remaked classic TBF seriesǃ Shoot and fight your rivals to winǃ 撃ったり投げたりして勝利をめざす初代 トンバト のリメイク版 ǃ ｜ Rule details are in guide UI․ ルールの 詳細は ガイド UI に 記述されて います。｜ トンバト クラシック リメイク ｜ TBF Classic Remake ｜ Old World Name˸ TonboBattlefield 01 ｜ Updated˸ 2023⁄10⁄26 （2․2․2）",
           "ID": "wrld_b20a27d2-cd22-4aa0-a25b-666dc97451ec",
           "Name": "TonboBattlefield˸ Classic Remake"
-        }
-      ]
-    },
-    {
-      "Category": "meme",
-      "Worlds": [
-        {
-          "Description": "Now updated in Unity 2022 and fixed spawn issueǃ Please don't push the buttonǃ It is really annoyingǃ A single player world․ 10-20 minutes․ （v1․0․1） Disclaimer˸ The game will have issues in multiplayer and Quest is untestedǃ Please report bugs in our Discord server˸ discord․com⁄invite⁄tbpQapfyxt",
-          "ID": "wrld_32660b7a-e980-4cb3-b95e-4d51b2682459",
-          "Name": "Please don't push the buttonǃ"
         }
       ]
     },
@@ -19899,11 +19299,6 @@
       "Category": "monster",
       "Worlds": [
         {
-          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
-          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
-          "Name": "Just Goo Infection - Slime Infects You -"
-        },
-        {
           "Description": "Try to survive and eliminate the creature that hides in the shadows․ Supports up to 16 players max․ Created by Teal and Nicychuu for Spookality 2022ǃ",
           "ID": "wrld_4cad78d6-0747-44ac-953f-43191fb53f28",
           "Name": "THE HUNT - Horror Game"
@@ -20159,11 +19554,6 @@
       "Category": "mud",
       "Worlds": [
         {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）ホラーワールドやゲームワールドではありません。あなたの体験していない記憶のHUBです。現在3つのパートが稼働中。",
-          "ID": "wrld_a15a3044-db87-4bac-8d93-282e7a00e8f5",
-          "Name": "記憶の底なし沼"
-        },
-        {
           "Description": "Simple swamp world with an experimental mud simulation system․ Originally a proof-of-concept‚ and likely won't receive many updates aside from small tweaks and fixes․ Credits to Torvid for making the original system on which this is based and for inspirationǃ",
           "ID": "wrld_86ec93bb-9f33-4ea4-a1fa-2b41946456dc",
           "Name": "Muddy Swamp"
@@ -20299,16 +19689,6 @@
           "Name": "Avatar Museum 10"
         },
         {
-          "Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
-          "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
-          "Name": "VRC PIXELART EXHIBITION"
-        },
-        {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）「なぜか見ず知らずの展示会へ訪れてしまったあなた。何かを期待するように奥へと進む。」 ヒトをモノとして展示するコンセプトのチルワールドです。注意：ホラー要素はありません。本当の展示会ワールドではありません。フィクションです。",
-          "ID": "wrld_10fa7371-b4ea-4cbd-83a7-9f6ebfda026c",
-          "Name": "ヒトがモノになる空間"
-        },
-        {
           "Description": "＃リアアリス怪文書部 の美術館です。リアアリスの魅力を感じていただけたら幸いです。",
           "ID": "wrld_776d1356-8477-4c13-a9d5-15cbbfeba89b",
           "Name": "リアアリス怪文書美術館"
@@ -20357,11 +19737,6 @@
           "Description": "日本の近代に造られた貨幣の一部を展示した博物館です。今後別の言語も追加予定です。リアルギフト恵んでください（） This is a museum exhibiting some of the modern coins minted in Japan․ Additional languages will be added in the future․",
           "ID": "wrld_7cf0cf14-6789-4213-a40a-18edabdf5a1f",
           "Name": "日本の近代古銭博物館⁄Museum of Modern Japanese Coins"
-        },
-        {
-          "Description": "注意：このワールドはサンプルアバター等ございません。 展示しているアバターも全て骨抜きされています。 「 この世界に差し込む光は、ひと時の内に消えてしまうかもしれません。しかし、その光は霞のようにぼんやりと漂い、決して消え去ることはありません。 確かな答えを求めながらも、曖昧に揺らぐ世界の中を私たちは歩み続けています。 ここで感じてほしいのは、その揺らぎこそが存在の美しさであり、意味なのだという事。 刹那の光にどうか心を寄せてみてください。」",
-          "ID": "wrld_0996e418-cb1b-405e-9616-42c0cf3ead2c",
-          "Name": "燦滅縹渺"
         },
         {
           "Description": "114名のPixelArtist達によるPixelartの合同展示会場です。",
@@ -20566,7 +19941,7 @@
         {
           "Description": "⁄⁄ You Need FBT To Play ǃǃǃ ⁄⁄",
           "ID": "wrld_f04946ee-a19e-4323-8cf6-17de8d7991b9",
-          "Name": "Dance Vrush -【WIP 4․49】- Test 9 World"
+          "Name": "Dance Vrush -【WIP 4․51】- Test 9 World"
         },
         {
           "Description": "クリエイティブスタジオMIGIRIとバーチャルシンガーyosumiのコラボレーションによる自主制作の体験型音楽ワールドです。 ワールド音量80％以上を推奨。Recommended˸ World Volume 80％ or higher",
@@ -20969,11 +20344,6 @@
       "Category": "nazotoki",
       "Worlds": [
         {
-          "Description": "【現在不具合の報告があるので非公開中です】これはあなたが探偵として事件を推理する、短編ミステリワールドです。 星空館で起きた密室殺人。謎を解くカギは五芒星が指し示す。 想定プレイ時間：～６０分 動作：グローバル 「楽曲˸柊情景音楽店」【一部のプレイヤーで上手く動作しない場合、最初にワールドに入ったプレイヤーであれば動作する可能性があります】",
-          "ID": "wrld_e19c67ef-ac19-4643-a7b0-3a39ed31450b",
-          "Name": "推理・謎解きワールド『五芒星の殺人』"
-        },
-        {
           "Description": "進み方が２つある謎解きワールド。 君は謎を解くか、異変を見つけるか。",
           "ID": "wrld_acf351bf-e736-4893-aae0-a190439260dc",
           "Name": "謎解きワールド 『オモテウラ』"
@@ -21067,11 +20437,6 @@
           "Description": "初めての謎ワ。親愛なる友人へ。ゲームクリアまで20分くらい。答えはひらがなで入力して下さい。・謎はすべてローカル・日本語話者向け・ヒントあり ＃VRC_ふたつの贈り物",
           "ID": "wrld_012f09a8-8654-4096-afdb-9d361f1bad7c",
           "Name": "謎解きワールド「ふたつの贈り物」"
-        },
-        {
-          "Description": "そこにあるのは4枚のカード。日本語話者向け謎解きワールドです。想定クリア時間˸1時間くらい ＃VRC_Fake",
-          "ID": "wrld_a50146fe-4730-4ea2-a4e2-1870751e232b",
-          "Name": "謎解きワールド Fake"
         },
         {
           "Description": "日本語話者向けの謎解きワールドです。 ものすごくシンプルなワンルームからの脱出を目指しましょう。 難易度：簡単 想定時間：30~90 min",
@@ -21664,11 +21029,6 @@
           "Name": "別邸 天満月-villa amamitutuki-"
         },
         {
-          "Description": "不定期RPイベント＂CW-SnackC-＂使用ワールド。落ち着く雰囲気を楽しめる隠れたバー。 イベント仕様の為非公開かつ、センシティブに該当する行為での使用は禁止です。 ＂CW-SnackC-＂ is a world used for irregular RP events․ It's a hidden bar where you can enjoy a calming atmosphere․ Due to its event-specific nature‚ it is private and prohibited for use in any behavior deemed sensitive․ Created by yanagi_the55th⁄Client by Shaile-ｼｪｲﾙ-․ A cozy retreat where you can enjoy a relaxed atmosphere․",
-          "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
-          "Name": "Hidden Bar【SnackC】"
-        },
-        {
           "Description": "JAPANELAND SKY 2024",
           "ID": "wrld_6b27be61-2097-4afa-85ec-b45ea213ec46",
           "Name": "JAPANELAND SKY 2024"
@@ -22199,11 +21559,6 @@
           "Name": "Ultra Beach"
         },
         {
-          "Description": "This is the previous old version of the current public Titanic world․ This world is now archived but anyone can still experience it via a link․ Go check out the new worldǃ",
-          "ID": "wrld_63e767c7-c0ca-4952-b4e6-013a77300769",
-          "Name": "A Night To Remember - Titanic Survival Experience ［ARCHIVED］"
-        },
-        {
           "Description": "1Weekで作成した別荘です！ 今年の夏はバトルディスクで遊んだり、きれいな海を眺めながら別荘でのんびりしよう！ 桟橋の船から海底の部屋に行けるよ！夕方の海を追加しました！It is a villa created in 1Weekǃ Let's play with battle discs this summer and relax at the villa while gazing at the beautiful seaǃ You can go to the undersea room from the boat on the pierǃ The evening sea has been addedǃ＂ダーツ追加しました＂",
           "ID": "wrld_853d576e-7bde-4071-8f2a-27aa5980a45f",
           "Name": "OceanFuji3"
@@ -22346,26 +21701,6 @@
       ]
     },
     {
-      "Category": "official",
-      "Worlds": [
-        {
-          "Description": "ティロリミックス2025の公開を記念してつくられた、日本マクドナルド初の公式VRChatワールドです。 バーチャルポテトを食べたり、フォトスポットで撮影を楽しんだり、ご自由にお楽しみください！ 撮影した写真や動画をSNS投稿する際はぜひ ＃バーチャルティロリワールド のハッシュタグをお願いします 公開期間：2025年6月17日まで",
-          "ID": "wrld_db9f0264-393f-4de1-96f2-7979fd4b4667",
-          "Name": "McDonald's Virtual Tirori World （マクドナルド ティロリミックス）"
-        }
-      ]
-    },
-    {
-      "Category": "ohanami",
-      "Worlds": [
-        {
-          "Description": "ビールに屋台の焼きそば、そして桜！お花見とは実によい物 フレンドさんと飲み会してね",
-          "ID": "wrld_f81ebd9b-bd38-44e9-9487-91033fc75e7f",
-          "Name": "Justお花見"
-        }
-      ]
-    },
-    {
       "Category": "ojisan",
       "Worlds": [
         {
@@ -22389,24 +21724,9 @@
       "Category": "okinawa",
       "Worlds": [
         {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
-        },
-        {
           "Description": "バーチャル沖縄の首里城ワールドへめんそーれ！焼失してしまった正殿がバーチャル上で復活！バーチャル観光をお楽しみください！",
           "ID": "wrld_4f988561-b2a7-47f6-8028-a0c9e617574f",
           "Name": "VirtualOkinawa_ShurijoCastle_［JP］［EN］"
-        }
-      ]
-    },
-    {
-      "Category": "okivfes2025",
-      "Worlds": [
-        {
-          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
-          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
-          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
         }
       ]
     },
@@ -22557,16 +21877,6 @@
           "Description": "［This world is still in the making‚ not everything that's planned is here yet‚ be patientǃ］ A port of the world of Ocarina of Time 3D（with some extras for the love of the Zelda series）with a major focus on interactivity for people to experience‚ or simply hangout and explore between friends and Zelda fans alikeǃ Please do not expect this to become a fully playable version of the original game in VR‚ but more of a sort of sandboxǃ",
           "ID": "wrld_37abea33-f34c-4706-8e6b-2f69e414fc5d",
           "Name": "Ocarina of Time 3D"
-        }
-      ]
-    },
-    {
-      "Category": "ooze",
-      "Worlds": [
-        {
-          "Description": "粘体生物に襲われるワールドです。",
-          "ID": "wrld_efc26f6a-5e63-449f-9e59-c3a7d9fafa66",
-          "Name": "怪奇！粘体生物！"
         }
       ]
     },
@@ -23254,11 +22564,6 @@
           "Name": "rchs_"
         },
         {
-          "Description": "「3⁄15（日）が公開最終日となります。」VRChat写真展示ワールドです。 この展示は、VRChatのパブリックワールドで出会った人たちを撮影した写真と、そこから生まれた言葉で構成されています。 ご不明な点がございましたら、Xまでご連絡ください。 X˸ ＠mizoregoro25496 感想等は「＃DearYouMyPolaris」でお願いします。",
-          "ID": "wrld_a05392ea-bcd0-4312-8aa9-68e5d79db5ce",
-          "Name": "親愛なるきみはポラリス-VRChat写真展示-"
-        },
-        {
           "Description": "I want to live a life that gently leaves happiness in someone's heart․ 私も誰かの心にそっと幸せを残せる人生を生きたい",
           "ID": "wrld_1c0d1975-d3a9-4c12-8187-6f0df3e2b41f",
           "Name": "Leftover Happiness ⁄ 残された幸せ"
@@ -23322,16 +22627,6 @@
           "Description": "How amusing․ Not long ago‚ I traveled from the city of Adrian and continued heading north․ Now I'm in a small village at Whisperwind Grove․The last time I came here‚ I remember losing something․ let's find them",
           "ID": "wrld_942d31ef-15d0-4b63-b8dc-d0ca24225f7e",
           "Name": "Whisperwind Grove"
-        }
-      ]
-    },
-    {
-      "Category": "photogallery",
-      "Worlds": [
-        {
-          "Description": "「3⁄15（日）が公開最終日となります。」VRChat写真展示ワールドです。 この展示は、VRChatのパブリックワールドで出会った人たちを撮影した写真と、そこから生まれた言葉で構成されています。 ご不明な点がございましたら、Xまでご連絡ください。 X˸ ＠mizoregoro25496 感想等は「＃DearYouMyPolaris」でお願いします。",
-          "ID": "wrld_a05392ea-bcd0-4312-8aa9-68e5d79db5ce",
-          "Name": "親愛なるきみはポラリス-VRChat写真展示-"
         }
       ]
     },
@@ -23559,11 +22854,6 @@
       "Category": "pixelart",
       "Worlds": [
         {
-          "Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
-          "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
-          "Name": "VRC PIXELART EXHIBITION"
-        },
-        {
           "Description": "114名のPixelArtist達によるPixelartの合同展示会場です。",
           "ID": "wrld_ab2c1526-c1b1-419d-b138-be32591e799f",
           "Name": "VRC PIXELART EXHIBITION 2․0"
@@ -23724,11 +23014,6 @@
           "Name": "Zero G playground"
         },
         {
-          "Description": "ティロリミックス2025の公開を記念してつくられた、日本マクドナルド初の公式VRChatワールドです。 バーチャルポテトを食べたり、フォトスポットで撮影を楽しんだり、ご自由にお楽しみください！ 撮影した写真や動画をSNS投稿する際はぜひ ＃バーチャルティロリワールド のハッシュタグをお願いします 公開期間：2025年6月17日まで",
-          "ID": "wrld_db9f0264-393f-4de1-96f2-7979fd4b4667",
-          "Name": "McDonald's Virtual Tirori World （マクドナルド ティロリミックス）"
-        },
-        {
           "Description": "The Seattle MOPOP Artist At Play playground․ A realistic representation of the actual playground․ This is part of a series of worlds built as Seattle Community Hubs․ These worlds are made to inspire local friends and families to get together both online and offline‚ for upcoming library gathering events please follow our updates from https˸⁄⁄www․linkedin․com⁄company⁄npo-technologies-llc join discord to share feedback˸ https˸⁄⁄discord․gg⁄UzjZtEfGDp",
           "ID": "wrld_bd86d2bf-ec14-42bb-b465-78f22f0129c2",
           "Name": "Seattle Community Hub - MOPOP Artists At Play"
@@ -23814,11 +23099,6 @@
           "Name": "どんのナイトプール ＝DonK＝'s Night Pool"
         },
         {
-          "Description": "例のプールで生活できます",
-          "ID": "wrld_3fcdb5aa-e312-4a08-834f-24174e8b45a5",
-          "Name": "Just 例のプール生活"
-        },
-        {
           "Description": "終わらない夏、そして",
           "ID": "wrld_920e5886-9af5-4945-b6dd-fecdc38b6674",
           "Name": "LuminouSpectacle"
@@ -23852,11 +23132,6 @@
           "Description": "日本のホテルのナイトプールをイメージして製作しました I imagined a night pool at a hotel in Japan when I made this․",
           "ID": "wrld_064509c2-ab42-40a6-83e9-f00d6e8a190c",
           "Name": "ROYALBLUE ［ Night Pool ］"
-        },
-        {
-          "Description": "Deep within the bunkers of Site B lies various post-pale remains of the residential habitation zones where life-time employees lived‚ slept‚ and worked․ Warped and vulcanized remains of the site's senior staff may lie in the fray․ The world is effectively my attempt at making cozy lab dorms in the effective environment-design of the Changed universe․",
-          "ID": "wrld_b0d8ad72-b7d4-4d09-b3ae-b2e61c16333f",
-          "Name": "Changed ＆ Chill"
         },
         {
           "Description": "Luminous Oasis へようこそ。快適な時間をお楽しみください。 ワールドアセットは近日中にBOOTHで販売を予定しています。",
@@ -23942,16 +23217,6 @@
           "Description": "この場所では、誰かがここを去るたびに、その場に一通の手紙が届きます。姿が消えたあとに、言葉だけが形になって残る。ここは想い出配達の郵便屋さんが、そんな仕事をしている場所です。さらに、ずっと昔にここを去った誰かからの「忘れ物」が、時を超えてこの郵便局に紛れ込むこともあります。もし封筒を見つけたら、そっと手に取ってみてください。そこに書いてあるのは、かつてここにいた誰かが残した、どこかの誰かのメッセージです。 Every time someone leaves this place‚ a letter appears in their wake․ Words take shape even after their presence fades․ This is the work of The Memory Postman․ You may also find old messages from those who left long ago․ If you find an envelope‚ please pick it up․ Inside is a message from someone who was once here․",
           "ID": "wrld_0c1aadee-dcaf-4669-9cc2-4a711f3e08c4",
           "Name": "想い出配達の郵便屋さん"
-        }
-      ]
-    },
-    {
-      "Category": "postapocalypse",
-      "Worlds": [
-        {
-          "Description": "タンポポの花言葉は神託、真心の愛、そして＂ ＂。これはきっと新たな始まりに過ぎないのかもしれない。（BGM - https˸⁄⁄youtu․be⁄jDnCHQk4Kp8?si＝7ieljQC1Et58AZ_G）",
-          "ID": "wrld_fc16e4bb-ebde-4901-b7c9-538922a219a5",
-          "Name": "たんぽぽの旅立ち - A New Journey Of Dandelions"
         }
       ]
     },
@@ -24116,16 +23381,6 @@
       ]
     },
     {
-      "Category": "pudding",
-      "Worlds": [
-        {
-          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
-          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
-          "Name": "Just Goo Infection - Slime Infects You -"
-        }
-      ]
-    },
-    {
       "Category": "pumpkin",
       "Worlds": [
         {
@@ -24148,11 +23403,6 @@
     {
       "Category": "puzzle",
       "Worlds": [
-        {
-          "Description": "【現在不具合の報告があるので非公開中です】これはあなたが探偵として事件を推理する、短編ミステリワールドです。 星空館で起きた密室殺人。謎を解くカギは五芒星が指し示す。 想定プレイ時間：～６０分 動作：グローバル 「楽曲˸柊情景音楽店」【一部のプレイヤーで上手く動作しない場合、最初にワールドに入ったプレイヤーであれば動作する可能性があります】",
-          "ID": "wrld_e19c67ef-ac19-4643-a7b0-3a39ed31450b",
-          "Name": "推理・謎解きワールド『五芒星の殺人』"
-        },
         {
           "Description": "白と黒、二つの部屋を行き来して全ての謎を解き明かせ！⁄制限時間60分⁄途中入場不可",
           "ID": "wrld_9157acd3-13e6-499a-9a72-ee044c3f9385",
@@ -24694,11 +23944,6 @@
           "Name": "謎解きワールド「Untitled Puzzle 1」"
         },
         {
-          "Description": "二つの物質からα反応またはβ反応を起こして、目的の物質を作っていきます。 二つの反応の法則はどんなものなのでしょうか？ 推定クリア時間：20～50分",
-          "ID": "wrld_9be6e6f8-a1a6-4113-9edf-df6133237439",
-          "Name": "ShamChemPuzzle"
-        },
-        {
           "Description": "制限時間なし ⁄ 途中参加可能 ⁄ 難易度˸人による ⁄ エリア制限はあまり無いためチルワールドとしてもご利用いただけます ⁄ QvPen ⁄ iwaSync3 ⁄ RBS SleepKit 2",
           "ID": "wrld_557cf461-decf-4cf9-b753-48f00a88800d",
           "Name": "脱出ゲーム「大豪邸からの脱出」"
@@ -24802,11 +24047,6 @@
           "Description": "你是风栖之树下，未曾醒来的星空。You are the unawakened galaxy beneath the wind-resting tree․",
           "ID": "wrld_0c5b4cd0-a2a6-49fd-8c42-4862062b3671",
           "Name": "rchs_"
-        },
-        {
-          "Description": "このワールドを、全ての『_______』へ捧げます。 想定クリア時間：個人差大の為不明",
-          "ID": "wrld_dd10a47d-9ad0-4d41-ac05-c786729ead0e",
-          "Name": "【謎解き】Ability【パズル】"
         },
         {
           "Description": "Test yourself and solve 20 levels of puzzlesǃ All gimmicks work locally․ 20問のパズルを解き、クリアを目指せ！ ギミックはすべてローカルです․",
@@ -25229,11 +24469,6 @@
           "Name": "Vkaraǃǃ Karaoke Room JP 【ぶいカラǃǃ】"
         },
         {
-          "Description": "例のプールで生活できます",
-          "ID": "wrld_3fcdb5aa-e312-4a08-834f-24174e8b45a5",
-          "Name": "Just 例のプール生活"
-        },
-        {
           "Description": "セルフチンボタンあります",
           "ID": "wrld_13b029af-59fb-4493-a198-5e654e5f30ec",
           "Name": "Just 電子レンジ生活"
@@ -25384,19 +24619,9 @@
       "Category": "quicksand",
       "Worlds": [
         {
-          "Description": "（表現規制による一時的非公開中。フレプラでのインスタンス生成はやめてください。建てるときはインバイトで。）ホラーワールドやゲームワールドではありません。あなたの体験していない記憶のHUBです。現在3つのパートが稼働中。",
-          "ID": "wrld_a15a3044-db87-4bac-8d93-282e7a00e8f5",
-          "Name": "記憶の底なし沼"
-        },
-        {
           "Description": "Like the other quicksand world but with likelike",
           "ID": "wrld_140213ff-c1cb-4dd6-9983-5cc4b9c315b2",
           "Name": "Quicksand LikeLike"
-        },
-        {
-          "Description": "quicksand",
-          "ID": "wrld_fa9bc3a6-795f-4cdf-a563-0b5d1db41985",
-          "Name": "the pits"
         },
         {
           "Description": "You're wandering the desert when you encounter some loose sand․․",
@@ -25472,11 +24697,6 @@
           "Description": "Hello․ Could you help us learn to love? ハロー。私達の愛の学習を手伝ってもらえませんか？ PC․PCVRのみ。 日本語の謎解きアクションワールドです。",
           "ID": "wrld_f242e868-6683-41f7-92e5-f155f5245f71",
           "Name": "AI -アイのすべて-"
-        },
-        {
-          "Description": "迫りくる難読漢字を読みがなミサイルで迎撃せよ！ 2024⁄09⁄03 現在ワールドのギミックが壊れていてゲームを進行できない不具合を確認しております。 Unityプロジェクトも破損してしまっているため、改修も不可能となっております。9⁄2に私のTwitter（現˸X）にて不具合の対処法を動画で公開していますので、そちらをご確認の上、ワールドのセットアップを各自していただくようお願いいたします。",
-          "ID": "wrld_c2b63c84-61a4-48bf-9b8c-d70a7db08207",
-          "Name": "バチャツアーズ - VirtualTours"
         },
         {
           "Description": "日本人向け謎解きワールドだよ！全7問！想定クリア時間30分～1時間！",
@@ -25577,11 +24797,6 @@
           "Description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua （Libes and Quap）",
           "ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
           "Name": "Jetski Rush"
-        },
-        {
-          "Description": "ベータ版です。 馬の配合、ベットシステム、レース、血統表、ステータス、馬データの共有、調教、観戦など色々遊べます。 β版なので不具合がある可能性があります！",
-          "ID": "wrld_bb27c42c-3ff5-4f5a-83ce-483cd6d5db49",
-          "Name": "Horse Racing Game World （β）"
         }
       ]
     },
@@ -25827,16 +25042,6 @@
           "Description": "Reflections breathe on their own here․ Look too long‚ and your image might not wake with you․ ｜ Project˸ INSPIRATIO‚ World ＃16",
           "ID": "wrld_1e880a89-0776-4443-b474-f2cd76fedf10",
           "Name": "When Mirrors Slept - ［Project˸ INSPIRATIO］"
-        }
-      ]
-    },
-    {
-      "Category": "reading",
-      "Worlds": [
-        {
-          "Description": "電子の街『深海』の物語を体験するイベントワールド․CV水縹アオ․VR深海プロジェクト",
-          "ID": "wrld_1fc47ba6-26b6-4f70-9c5a-56b30d88065f",
-          "Name": "VR読劇-深海のアリア-"
         }
       ]
     },
@@ -26316,16 +25521,6 @@
       ]
     },
     {
-      "Category": "repo",
-      "Worlds": [
-        {
-          "Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
-          "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-          "Name": "R․E․P․O․ VRC"
-        }
-      ]
-    },
-    {
       "Category": "resort",
       "Worlds": [
         {
@@ -26437,11 +25632,6 @@
           "Description": "答えたものが実体化する異世界で、全ての謎を解き、この世界の支配者の元へと辿り着いてください。",
           "ID": "wrld_e7e04340-6437-45d2-ac78-f7c5d8178696",
           "Name": "貴女へ至る還り路 ~The Way to Athena~"
-        },
-        {
-          "Description": "【現在不具合の報告があるので非公開中です】これはあなたが探偵として事件を推理する、短編ミステリワールドです。 星空館で起きた密室殺人。謎を解くカギは五芒星が指し示す。 想定プレイ時間：～６０分 動作：グローバル 「楽曲˸柊情景音楽店」【一部のプレイヤーで上手く動作しない場合、最初にワールドに入ったプレイヤーであれば動作する可能性があります】",
-          "ID": "wrld_e19c67ef-ac19-4643-a7b0-3a39ed31450b",
-          "Name": "推理・謎解きワールド『五芒星の殺人』"
         },
         {
           "Description": "［jp Only］ 【難易度】そこそこ~しっかり 【回答ギミック】ローカル",
@@ -26924,11 +26114,6 @@
           "Name": "ふつうの？？？？なぞとき"
         },
         {
-          "Description": "そこにあるのは4枚のカード。日本語話者向け謎解きワールドです。想定クリア時間˸1時間くらい ＃VRC_Fake",
-          "ID": "wrld_a50146fe-4730-4ea2-a4e2-1870751e232b",
-          "Name": "謎解きワールド Fake"
-        },
-        {
           "Description": "1枚謎のみのシンプルな謎解きワールドです。 ＃VRC_WHITE_OUT 2026⁄03⁄13 問題を一部修正",
           "ID": "wrld_70e54b8d-d4e8-4933-8dd4-3ad2246b0ad8",
           "Name": "謎解きワールド「WHITE OUT」"
@@ -27234,11 +26419,6 @@
           "Name": "謎解きRTA【7th ANSWER】"
         },
         {
-          "Description": "二つの物質からα反応またはβ反応を起こして、目的の物質を作っていきます。 二つの反応の法則はどんなものなのでしょうか？ 推定クリア時間：20～50分",
-          "ID": "wrld_9be6e6f8-a1a6-4113-9edf-df6133237439",
-          "Name": "ShamChemPuzzle"
-        },
-        {
           "Description": "制限時間なし ⁄ 途中参加可能 ⁄ 難易度˸人による ⁄ エリア制限はあまり無いためチルワールドとしてもご利用いただけます ⁄ QvPen ⁄ iwaSync3 ⁄ RBS SleepKit 2",
           "ID": "wrld_557cf461-decf-4cf9-b753-48f00a88800d",
           "Name": "脱出ゲーム「大豪邸からの脱出」"
@@ -27447,11 +26627,6 @@
           "Description": "［JP⁄EN］一枚謎が5枚あるだけの謎解きワールド。推定所要時間30分～。A riddle world with just 5 simple riddles․ Estimated time˸ 30min~ ＃VRC_RiddleLambda",
           "ID": "wrld_a881c06a-534c-4ad8-9c17-f7a1613d298e",
           "Name": "【謎解き⁄Riddle】 LAMBDA"
-        },
-        {
-          "Description": "このワールドを、全ての『_______』へ捧げます。 想定クリア時間：個人差大の為不明",
-          "ID": "wrld_dd10a47d-9ad0-4d41-ac05-c786729ead0e",
-          "Name": "【謎解き】Ability【パズル】"
         },
         {
           "Description": "一枚謎が全6問あります。Extra等はありません。",
@@ -28037,11 +27212,6 @@
           "Description": "【推奨5名／ゲームワールド】 最恐の研究所から脱出せよǃǃ ゾンビ映画の世界を体験するゲームワールドǃǃ ／ワールド制作：ムシコロリ ©2022 HOTEL QADESH PROJECT Escape from a crazy instituteǃ This is a game world to experience the world of zombie moviesǃ 가장 무서운 연구소에서 탈출하세요 좀비영화의 세계를 체험하는 게임월드입니다",
           "ID": "wrld_9f2fcd4d-822f-4b64-a417-b858e08fb8a7",
           "Name": "ヴードゥー・キングダム エピソード：ゼロ 眠れる王母【JP・EN・KR】"
-        },
-        {
-          "Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
-          "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-          "Name": "R․E․P․O․ VRC"
         }
       ]
     },
@@ -28481,16 +27651,6 @@
       ]
     },
     {
-      "Category": "r․e․p․o․",
-      "Worlds": [
-        {
-          "Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
-          "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-          "Name": "R․E․P․O․ VRC"
-        }
-      ]
-    },
-    {
       "Category": "sacc's_flight",
       "Worlds": [
         {
@@ -28534,11 +27694,6 @@
       "Category": "sakura",
       "Worlds": [
         {
-          "Description": "ビールに屋台の焼きそば、そして桜！お花見とは実によい物 フレンドさんと飲み会してね",
-          "ID": "wrld_f81ebd9b-bd38-44e9-9487-91033fc75e7f",
-          "Name": "Justお花見"
-        },
-        {
           "Description": "BOOTH【妖具屋零れ桜】の販売物展示場を含む和風チルワールドです。 【更新履歴】2025⁄01⁄30 妖具屋エリアにアイテムを4つ追加",
           "ID": "wrld_113d715c-b47c-4a9e-9829-c1c0833f019c",
           "Name": "-龍桜-"
@@ -28557,11 +27712,6 @@
           "Description": "寒い季節が過ぎて、暖かな陽射しが戻ってきました．長いうたたねから目覚めたら、花咲く遺跡の庭園へお散歩に․․․ 澄んだ流れを辿り、やわらかい風に乗ってゆきましょう．Comfortable gardens set within ancient ruins‚ offering various scenic expressions․ This world features scenic terraces‚ cozy bedrooms‚ and a tranquil bathroom․",
           "ID": "wrld_3df5c22b-a27e-4fac-ac0d-01861c0359b7",
           "Name": "寝覚めの庭園 - Early spring gardens -"
-        },
-        {
-          "Description": "春限定公開。神隠しシリーズ4作目。BGMがバグってます音量注意。",
-          "ID": "wrld_5eb5a1c1-51ab-4c03-9ffe-db8050672df7",
-          "Name": "神隠しの幻灯雫"
         },
         {
           "Description": "春の温泉！！茶屋や個室風呂もあるぞ！！遊べる卓球も！",
@@ -28647,11 +27797,6 @@
           "Description": "You awaken in an unfamiliar place‚ where walls are rusted by time and swirling mists shroud the corridors․ The echoes of settling pipes are not this domains only resident․ You must navigate into the unknown․ What secrets will you uncover on your journey? Just remember‚ watch your step into the unknown‚ for it holds no regard for you․ This version Contains Both Part I and Part II․ 6 Players Max‚ 4 Recommended․ Playtime roughly 40 min - 1 1⁄2 Hours․",
           "ID": "wrld_711c6820-0ae8-419c-b0d7-de9084a5371c",
           "Name": "Tenebrous˸ ReGrowth"
-        },
-        {
-          "Description": "［legacy version‚ the Remaster is the new one］ This is a story‚ of the world ending․ A story of separation‚ loneliness‚ and heartbreak․ All triggers are Local․ Solo play recommended‚ max 10 players․ Republished with no changes",
-          "ID": "wrld_18f6b13c-07fc-4298-8c81-2d42e0646754",
-          "Name": "Reverie Serenade （Legacy 2024）"
         },
         {
           "Description": "Welcome ［----］‚ just answer the questions and you can go back to work․ This is a routine ［---------］ Just answer the ［---------］ and you can go ［----］․ Just ［------］ the ［---------］․․ Wait․ Haven't we done this before? A psychological⁄cosmic horror experience․ ［Local Only ＆ Bright Lights․ If you get stuck‚ respawn］",
@@ -28919,11 +28064,6 @@
           "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-"
         },
         {
-          "Description": "学校の七不思議のひとつ『異世界階段』の噂がある学校のワールドです。約１５分でクリアできます。",
-          "ID": "wrld_1b49a852-f6ae-481e-9611-71e1476cbaa5",
-          "Name": "学校の怪談～Ghost stories～"
-        },
-        {
           "Description": "This is a world for trying on the original 3D model ＂Eku＂․ オリジナル3Dモデル「エク - Eku」試着会場です。 「エク」は2025年10月10日にリリースします。",
           "ID": "wrld_d1f5b329-dc41-4b7e-a131-7d4931ec1afb",
           "Name": "Eku Trial World - エク試着会場"
@@ -29012,11 +28152,6 @@
           "Description": "2023-05-22 v1․00 Release․",
           "ID": "wrld_4045ad56-51d7-4e45-9a34-aeeefa5a1bba",
           "Name": "FULLMETAL NOAH'S ARK"
-        },
-        {
-          "Description": "［legacy version‚ the Remaster is the new one］ This is a story‚ of the world ending․ A story of separation‚ loneliness‚ and heartbreak․ All triggers are Local․ Solo play recommended‚ max 10 players․ Republished with no changes",
-          "ID": "wrld_18f6b13c-07fc-4298-8c81-2d42e0646754",
-          "Name": "Reverie Serenade （Legacy 2024）"
         },
         {
           "Description": "The sequel to District Roboto‚ Complex 7 features a world 7 times larger‚ full of NPC‚ collectible‚ unlockable avatars‚ and hidden secrets․ Discover the dark history behind this technicolor world of life and curiosity․ ［World Pre-Loading HIGHLY Recommended］All actions are local․",
@@ -29596,23 +28731,8 @@
       ]
     },
     {
-      "Category": "shinkai_project",
-      "Worlds": [
-        {
-          "Description": "電子の街『深海』の物語を体験するイベントワールド․CV水縹アオ․VR深海プロジェクト",
-          "ID": "wrld_1fc47ba6-26b6-4f70-9c5a-56b30d88065f",
-          "Name": "VR読劇-深海のアリア-"
-        }
-      ]
-    },
-    {
       "Category": "ship",
       "Worlds": [
-        {
-          "Description": "This is the previous old version of the current public Titanic world․ This world is now archived but anyone can still experience it via a link․ Go check out the new worldǃ",
-          "ID": "wrld_63e767c7-c0ca-4952-b4e6-013a77300769",
-          "Name": "A Night To Remember - Titanic Survival Experience ［ARCHIVED］"
-        },
         {
           "Description": "港の見える公園のワールドです。",
           "ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
@@ -29829,11 +28949,6 @@
       "Category": "showcase",
       "Worlds": [
         {
-          "Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
-          "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-          "Name": "R․E․P․O․ VRC"
-        },
-        {
           "Description": "本ワールドは、BOOTHショップ「妖具屋零れ桜」の販売アイテム展示ワールドです。 実際にお手に取って、ご自身のアバターに持たせた際のルックやエフェクトをご確認頂けます。 This world showcases the items sold in the BOOTH shop Yoguya Koboresakura․ You can pick up the items and check how they look and behave when held by your avatar․",
           "ID": "wrld_6a36396d-c0f4-49fe-9435-dd3335344a9b",
           "Name": "ShowCase -妖具屋零れ桜-"
@@ -29847,16 +28962,6 @@
           "Description": "This world is a legitimate sequel by the author of the first ＂Japan Shrine＂ published in 2018․ このワールドは2018年に公開した最初の『Japan Shrine』の作者による正統な続編です。The mobile（Quest） version will be the 2018 Japan Shrine․モバイル（Quest）版は2018年のJapan Shrineになります。VRC Light Volumes2 is supported only on the PC version․PC版のみVRC Light Volumes2対応済み。",
           "ID": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
           "Name": "Japan Shrine［early summer］"
-        },
-        {
-          "Description": "Happy New Year2024 胡椒神社",
-          "ID": "wrld_39140c64-4737-4698-9511-bd70d34c804b",
-          "Name": "Happy New Year2024 胡椒神社"
-        },
-        {
-          "Description": "Happy New Year2025 胡椒神社 絵馬、おみくじ、オリジナル年賀状を作る場所あり",
-          "ID": "wrld_f8a183eb-67cd-4693-95e1-f8ab2ff853a8",
-          "Name": "Happy New Year2025 胡椒神社"
         },
         {
           "Description": "Light Volume OK - 次回の祇園通りワールド恒例・大晦日カウントダウン花火イベントは、2026年12月31日に開催されます！ 午前0時ちょうど、天から駆け降りる神秘の馬が、午（うま）年の幕開けを華やかに告げます！ イベントは23時50分（10分前）から始まりますので、どうぞお見逃しなく！ǃ",
@@ -30017,11 +29122,6 @@
           "Description": "Try your luck at brewing a magic potion without blowing yourself up in the process․ Based on the singleplayer card game Scoundrel․ V1․2˸ Updated brewing setup for more visible active totems",
           "ID": "wrld_4e50400c-9f56-4661-a987-f7e8aaab954a",
           "Name": "Magic Potion Brewing"
-        },
-        {
-          "Description": "電子の街『深海』の物語を体験するイベントワールド․CV水縹アオ․VR深海プロジェクト",
-          "ID": "wrld_1fc47ba6-26b6-4f70-9c5a-56b30d88065f",
-          "Name": "VR読劇-深海のアリア-"
         }
       ]
     },
@@ -30038,11 +29138,6 @@
     {
       "Category": "sinking",
       "Worlds": [
-        {
-          "Description": "This is the previous old version of the current public Titanic world․ This world is now archived but anyone can still experience it via a link․ Go check out the new worldǃ",
-          "ID": "wrld_63e767c7-c0ca-4952-b4e6-013a77300769",
-          "Name": "A Night To Remember - Titanic Survival Experience ［ARCHIVED］"
-        },
         {
           "Description": "Like the other quicksand world but with likelike",
           "ID": "wrld_140213ff-c1cb-4dd6-9983-5cc4b9c315b2",
@@ -30769,19 +29864,9 @@
       "Category": "slime",
       "Worlds": [
         {
-          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
-          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
-          "Name": "Just Goo Infection - Slime Infects You -"
-        },
-        {
           "Description": "湧いて出てくるスライムを延々と倒し続けるワールドです。 パーシステンスを使って獲得した経験値を保存しているので、ワールドから出てもレベルが維持されます。",
           "ID": "wrld_8fa00d83-c4a1-46e1-98a2-021db9932f63",
           "Name": "スライムだけ倒し続けてLv99 - Slime Slayer -"
-        },
-        {
-          "Description": "粘体生物に襲われるワールドです。",
-          "ID": "wrld_efc26f6a-5e63-449f-9e59-c3a7d9fafa66",
-          "Name": "怪奇！粘体生物！"
         }
       ]
     },
@@ -30832,16 +29917,6 @@
           "Description": "A camera that maps everything within its frame onto the environment․ Potential photosensitivity warning․ Heavily based on the Catacombs Of Solaris․",
           "ID": "wrld_096a1236-0363-43ab-9625-1d4fd35fb640",
           "Name": "Camera Of Solaris"
-        }
-      ]
-    },
-    {
-      "Category": "smash",
-      "Worlds": [
-        {
-          "Description": "OHǃ MY CAR ［Update QVPen to 3․3․3］v1․1․1 Quest対応",
-          "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
-          "Name": "Break the car"
         }
       ]
     },
@@ -31094,11 +30169,6 @@
           "Name": "FULLMETAL NOAH'S ARK"
         },
         {
-          "Description": "［legacy version‚ the Remaster is the new one］ This is a story‚ of the world ending․ A story of separation‚ loneliness‚ and heartbreak․ All triggers are Local․ Solo play recommended‚ max 10 players․ Republished with no changes",
-          "ID": "wrld_18f6b13c-07fc-4298-8c81-2d42e0646754",
-          "Name": "Reverie Serenade （Legacy 2024）"
-        },
-        {
           "Description": "［2020-03-24 v2․6］BugFix",
           "ID": "wrld_1da7dd95-0580-427e-80c2-686971e316ab",
           "Name": "SPACE ELEVATOR"
@@ -31307,11 +30377,6 @@
           "Description": "Something seems a little off about this mirror․․․ A Spookality 2020 winnerǃ Singleplayer recommended‚ but supports up to 4 players without sync․ Now playable on Questǃ",
           "ID": "wrld_50f36446-d1d8-4e31-8639-dcaa8fe2f66d",
           "Name": "MIRЯIM"
-        },
-        {
-          "Description": "Now updated in Unity 2022 and fixed spawn issueǃ Please don't push the buttonǃ It is really annoyingǃ A single player world․ 10-20 minutes․ （v1․0․1） Disclaimer˸ The game will have issues in multiplayer and Quest is untestedǃ Please report bugs in our Discord server˸ discord․com⁄invite⁄tbpQapfyxt",
-          "ID": "wrld_32660b7a-e980-4cb3-b95e-4d51b2682459",
-          "Name": "Please don't push the buttonǃ"
         },
         {
           "Description": "Candy is envied by all inhabitants of this realm; a realm where one wrong move can leave you bankruptǃ Featured in Spookality 2022․",
@@ -31832,11 +30897,6 @@
           "Description": "After a long hush and slow restoration‚ the gates are open once more․ ∗This world contains sudden flashing animations․ Powered by CyanTrigger․ （V2․00 Karaoke Update）",
           "ID": "wrld_3f55a5ff-5fb5-4d81-8ae6-7a25b042ffb1",
           "Name": "The Quiet She Left Behind"
-        },
-        {
-          "Description": "電子の街『深海』の物語を体験するイベントワールド․CV水縹アオ․VR深海プロジェクト",
-          "ID": "wrld_1fc47ba6-26b6-4f70-9c5a-56b30d88065f",
-          "Name": "VR読劇-深海のアリア-"
         },
         {
           "Description": "「君に、あの夏を思い出させに来たよ」 祖母の遺品整理の途中で居眠りしたあなたが目覚めると、背後霊の声が聞こえるようになっていた。仕掛けられた謎を解いて、背後霊にも片付けを手伝わせてやろう。 セーブなしヒントありローカル動作の謎解きワールドです。注：アバターサイズが大きい場合雑談・ヒントが使えない可能性があります。謎を解くごとにヒントは更新され、雑談は追加解放されます。おまけ˸ ＃VRC_SummerPhantom filemlia",
@@ -32394,11 +31454,6 @@
           "Name": "Terrors of Nowhere"
         },
         {
-          "Description": "This is the previous old version of the current public Titanic world․ This world is now archived but anyone can still experience it via a link․ Go check out the new worldǃ",
-          "ID": "wrld_63e767c7-c0ca-4952-b4e6-013a77300769",
-          "Name": "A Night To Remember - Titanic Survival Experience ［ARCHIVED］"
-        },
-        {
           "Description": "You board an empty train‚ but something is terribly wrong․ The lights flicker‚ the announcements distort‚ and youre not alone․ Find a way to decrypt the train's destination before it finds you․ Will you escape‚ or will you vanish like the others? V2․1 - Survival Update - Please Report Any Bugs To˸ tickettonowhere․up․railway․app⁄submissions",
           "ID": "wrld_54be7685-5dfc-4121-b0f7-4eef5a3055aa",
           "Name": "Ticket To Nowhere"
@@ -32647,16 +31702,6 @@
           "Description": "This horror experience is recommended for ages 16 and up ＆ can be played without prior knowledge of the first part․ This world contains loud noises‚ jumpscares ＆ flickering lights （epilepsy warning）ǃ Audio output in English‚ Japanese and German․ Korean ＆ Chinese subtitles․ In this story-based game‚ you find yourself in a laboratory deep underground․ An artificial intelligence will help you escape․ Created for Spookality 2024․",
           "ID": "wrld_fd5c5c0b-17d3-44ce-a4ed-2b052b5e2710",
           "Name": "Backspace 2"
-        }
-      ]
-    },
-    {
-      "Category": "system_jam_32768303-889d-4f47-a8b7-bc1ec18ca60f",
-      "Worlds": [
-        {
-          "Description": "",
-          "ID": "wrld_a39563c5-221a-4bf7-9c16-09f0d51da854",
-          "Name": "Resort in Bali"
         }
       ]
     },
@@ -33124,11 +32169,6 @@
           "Name": "A Game About Crates"
         },
         {
-          "Description": "ベータ版です。 馬の配合、ベットシステム、レース、血統表、ステータス、馬データの共有、調教、観戦など色々遊べます。 β版なので不具合がある可能性があります！",
-          "ID": "wrld_bb27c42c-3ff5-4f5a-83ce-483cd6d5db49",
-          "Name": "Horse Racing Game World （β）"
-        },
-        {
           "Description": "A private lunar base at the moon's north pole that supports another base that extract helium-3 from the moon․ Its purpose is to assist by delivering and transporting cargo with its lunar rover․",
           "ID": "wrld_13cabd83-9f05-44a0-87e3-716aa3fc484c",
           "Name": "StarlightLab"
@@ -33227,11 +32267,6 @@
           "Description": "おためし謎解きワールドです。謎解き初心者向けです。 クリアまでは大体15～30分くらい。",
           "ID": "wrld_4b654a5b-ca6f-4ac1-8971-7a8969088fb2",
           "Name": "【謎解きワールド】ねこさんじょうのおためし謎解きワールド"
-        },
-        {
-          "Description": "「弾ける床の謎を解け。」想定難易度：５、ヒント有無：なし、ワールド動作：グローバル、想定クリア時間：20分～60分",
-          "ID": "wrld_e2246fd7-e146-4532-893e-e900c8005642",
-          "Name": "謎解きワールド「SparkleFloor」"
         }
       ]
     },
@@ -33279,6 +32314,11 @@
           "Name": "日本語話者向け集会場「FUJIYAMA」JP"
         },
         {
+          "Description": "Hedera ⁄ Riddle world ⁄ Play time ˸ 1 hour ⁄ Gimmicks ˸ Local ⁄ ＃VRC_Hedera",
+          "ID": "wrld_66aad73f-0a73-4978-8203-823f995874a6",
+          "Name": "Hedera"
+        },
+        {
           "Description": "American retro style Diner․ どなたさまもご自由に出入りください。ワールド内にTopazchat音源‚ カート‚ 自撮りフィルタ‚ 焚き火キャンプ‚ 昼夜・天候あり。このワールドはPublicインスタンス１つで運用しています。 インスタンスを立てる方は他のインスタンスとのTopaz競合にご注意ください。 Discordでポスターとロゴの２Dデータ、缶バッヂ３Dデータ配布中です。 asset list ˸（https˸⁄⁄discord․gg⁄wgZMJpPpXw）（＃AromericanDiner）",
           "ID": "wrld_cbb67b27-9442-45f9-b766-b0ed6d87001c",
           "Name": "Aromerican Diner"
@@ -33286,7 +32326,7 @@
         {
           "Description": "⁄⁄ You Need FBT To Play ǃǃǃ ⁄⁄",
           "ID": "wrld_f04946ee-a19e-4323-8cf6-17de8d7991b9",
-          "Name": "Dance Vrush -【WIP 4․49】- Test 9 World"
+          "Name": "Dance Vrush -【WIP 4․51】- Test 9 World"
         },
         {
           "Description": "だまこやで販売している様々な商品を展示しています。ご購入はワールド内のQRコードか、https˸⁄⁄kodamaaltanative․booth․pm⁄ からお越しくださるか、「だまこや」で検索してください。 Various products sold at Damakoya are on display․ 展示在玉子屋出售的各种商品。 다마코야에서 판매하는 다양한 상품을 전시하고 있습니다․",
@@ -33352,6 +32392,11 @@
           "Description": "2000＋ Songs ｜ PCVR ⁄ Quest ⁄ Desktop ｜ 1 - 8 Player Co-op ｜ Customization ｜ Persistence ｜ Drum Hero is a rhythm game inspired by Clone Hero but adapted for Virtual Realityǃ",
           "ID": "wrld_49e97e53-1fd8-404a-823d-4c1c3978412a",
           "Name": "Drum Hero v0․24․x"
+        },
+        {
+          "Description": "Gather the pieces of your obsession to finally let them go․⁄目を覚ますと、白い部屋にいた。 散らばったかけらを、ひとつずつ拾い集めていく。 指先は、それを知っているような気がする。",
+          "ID": "wrld_eda2b55e-9f7e-402c-b3ce-af7eac14bd4d",
+          "Name": "_Let Go ⁄ 手放す"
         },
         {
           "Description": "『ザ・マスト』へようこそ （awesome-llama氏によるオリジナルゲームを基に制作） 汚染されたオレンジ色の空の下に取り残された、孤独な研究基地を探索しましょう。忘れ去られた道を辿り、廃墟となった施設をさまよい、放棄された研究施設の痕跡を見つけ出してください。新たなサウンドトラックと共に、この世界の静寂と孤独を体感してください。 あなたの使命は、巨大なマストに到達し、遭難信号を発信して、この滅びゆく惑星からの救助を要請することです。",
@@ -33484,6 +32529,11 @@
           "Name": "神社の地下世界からの脱出"
         },
         {
+          "Description": "これはあなたが探偵として事件を推理する、短編ミステリワールドです。 星空館で起きた密室殺人。謎を解くカギは五芒星が指し示す。 想定プレイ時間：～６０分 動作：グローバル 「楽曲˸柊情景音楽店」【一部のプレイヤーで上手く動作しない場合、最初にワールドに入ったプレイヤーであれば動作する可能性があります】",
+          "ID": "wrld_e19c67ef-ac19-4643-a7b0-3a39ed31450b",
+          "Name": "推理・謎解きワールド『五芒星の殺人』"
+        },
+        {
           "Description": "ホラーワールドのポータルを置いてたり私が置きたいものを置いているワールドです。新しいホラーワールドを見つけたら更新していきます。 2023_07_14 VCC対応⁄ワールドサムネ変更⁄ワールド名変更",
           "ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
           "Name": "［JP］Horror portal World _ホラーワールドポータルコレクション_"
@@ -33519,6 +32569,11 @@
           "Name": "桜色の思い出"
         },
         {
+          "Description": "ビールに屋台の焼きそば、そして桜！お花見とは実によい物 フレンドさんと飲み会してね",
+          "ID": "wrld_f81ebd9b-bd38-44e9-9487-91033fc75e7f",
+          "Name": "Justお花見"
+        },
+        {
           "Description": "ガラクタノカミサマ",
           "ID": "wrld_8968db62-639d-4433-9951-0a3588a73c55",
           "Name": "ガラクタノカミサマ-Garakuta no Kamisama-"
@@ -33527,6 +32582,11 @@
           "Description": "架空のデスゲームの参加者の気分を味わうためのワールド",
           "ID": "wrld_b28562af-89e2-47c3-9c63-9cc96ccb6ad2",
           "Name": "そして、投票の時間が始まった"
+        },
+        {
+          "Description": "This is a story‚ of the world ending․ A story of separation‚ loneliness‚ and heartbreak․ All triggers are Local․ Solo play recommended‚ max 10 players․ Republished with no changes",
+          "ID": "wrld_18f6b13c-07fc-4298-8c81-2d42e0646754",
+          "Name": "Reverie Serenade （2024）"
         },
         {
           "Description": "毎日は、階段のように過ぎていく。",
@@ -33594,6 +32654,11 @@
           "Name": "Tokyo Sky Room"
         },
         {
+          "Description": "危険なスライムが確保されました。プールには絶対に入らないで下さい。 A dangerous liquid organism has been secured in the containment pool․ Do not Enter the pool․",
+          "ID": "wrld_0bae1cf1-eb0f-4dda-bcf0-33d86eaf1c25",
+          "Name": "Just Goo Infection - Slime Infects You -"
+        },
+        {
           "Description": "青空のにおい",
           "ID": "wrld_c89ee705-baaa-49f8-bcbd-9de049153d49",
           "Name": "Blue Summer"
@@ -33602,6 +32667,11 @@
           "Description": "a riddle world?",
           "ID": "wrld_608a396f-9cc3-4496-95ec-d83b0562ce8e",
           "Name": "A picture in"
+        },
+        {
+          "Description": "Now updated in Unity 2022 and fixed spawn issueǃ Please don't push the buttonǃ It is really annoyingǃ A single player world․ 10-20 minutes․ （v1․0․1） Disclaimer˸ The game will have issues in multiplayer and Quest is untestedǃ Please report bugs in our Discord server˸ discord․com⁄invite⁄tbpQapfyxt",
+          "ID": "wrld_32660b7a-e980-4cb3-b95e-4d51b2682459",
+          "Name": "Please don't push the buttonǃ"
         },
         {
           "Description": "魔法使いの弟子ウィズ ＝ Magical Kid WIZ ＝ 大切なものを守れるようになるため、魔法使いの先生に弟子入りした頑張り屋のウィズ。 マヌルネコモチーフの男の子です。 ウィズの物語はアナタと出会うことではじまります。",
@@ -33684,9 +32754,19 @@
           "Name": "Klees's Beach"
         },
         {
+          "Description": "Welcome aboard the luxurious R․M․S․ Titanicǃ It is April 14th‚ 1912‚ and you are all on your way to New York City to start a new life․ For those who know the tale of the Titanic‚ this story does not end well․ I hope you all enjoy this brand new experience․ The ship model used is from ROBLOX Titanic with modified assets from TSOS․ Sliding mechanic is borrowed from zSkull162ǃ Narration in world is done by OceanlinerDesigns on YouTubeǃ",
+          "ID": "wrld_63e767c7-c0ca-4952-b4e6-013a77300769",
+          "Name": "A Night To Remember - Titanic Survival Experience"
+        },
+        {
           "Description": "＃スパ銭とるきあ は源泉かけ流しの混浴温泉です。こちらのワールドはジョークです。それ以外の用途で使用した場合のいかなるトラブル対応も行わず、責任も負いません。 It is a mixed bathing hot spring with source water․ This world is a joke world․ We will not respond to any trouble and will not be responsible for any use for any other purpose․",
           "ID": "wrld_f11e7ae8-376a-4ee2-86c3-22f9ebbead0b",
           "Name": "［JP］スーパー銭湯とるきあ［SUPER SPA TORUKIA］"
+        },
+        {
+          "Description": "例のプールで生活できます",
+          "ID": "wrld_3fcdb5aa-e312-4a08-834f-24174e8b45a5",
+          "Name": "Just 例のプール生活"
         },
         {
           "Description": "EvilFall Ba",
@@ -33707,6 +32787,11 @@
           "Description": "クトゥルフ神話TRPGオリジナルシナリオ「風花の小夜」です。少しでも楽しんでいただけたら嬉しいです。",
           "ID": "wrld_1331a91f-5ace-4c7d-959f-d139fa6f1d65",
           "Name": "風花の小夜 -クトゥルフ神話TRPG-"
+        },
+        {
+          "Description": "迫りくる難読漢字を読みがなミサイルで迎撃せよ！ 2024⁄09⁄03 現在ワールドのギミックが壊れていてゲームを進行できない不具合を確認しております。 Unityプロジェクトも破損してしまっているため、改修も不可能となっております。9⁄2に私のTwitter（現˸X）にて不具合の対処法を動画で公開していますので、そちらをご確認の上、ワールドのセットアップを各自していただくようお願いいたします。",
+          "ID": "wrld_c2b63c84-61a4-48bf-9b8c-d70a7db08207",
+          "Name": "バチャツアーズ - VirtualTours"
         },
         {
           "Description": "RESONARK Championship 4 LIVE配信会場です。Sound˸ The Beginning of Rain （Chillout Version） - Saki Momiyama",
@@ -33739,6 +32824,11 @@
           "Name": "Just 芋掘り - Just imohori -"
         },
         {
+          "Description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
+          "ID": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
+          "Name": "VRC PIXELART EXHIBITION"
+        },
+        {
           "Description": "最高のフレンドたちとエビを揉んでください。",
           "ID": "wrld_4eef1891-6bff-45bf-abab-eda87f543dda",
           "Name": "エビ揉め集会場・公開版"
@@ -33762,6 +32852,11 @@
           "Description": "お彼岸をイメージしたワールドです。 BGM˸思い出は引き出しの中／written by˸もっぴーさうんど 様",
           "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
           "Name": "お彼岸"
+        },
+        {
+          "Description": "A cozy retreat where you can enjoy a relaxed atmosphere․ 落ち着く雰囲気を楽しめる隠れたバー。Created by yanagi_the55th",
+          "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
+          "Name": "Hidden Bar"
         },
         {
           "Description": "Slow and calm time with soothing music․ Chemery（シメリー）の森にある小さなお城です。ゆっくり静かな癒しの時間を楽しんでください。",
@@ -33819,6 +32914,16 @@
           "Name": "銀龍神社"
         },
         {
+          "Description": "Latex Bedroom",
+          "ID": "wrld_77f8c437-3b2c-4c5e-9863-0c7850ddc4c4",
+          "Name": "Latex Bedroom"
+        },
+        {
+          "Description": "「なぜか見ず知らずの展示会へ訪れてしまったあなた。何かを期待するように奥へと進む。」 ヒトをモノとして展示するコンセプトのチルワールドです。注意：ホラー要素はありません。本当の展示会ワールドではありません。フィクションです。",
+          "ID": "wrld_10fa7371-b4ea-4cbd-83a7-9f6ebfda026c",
+          "Name": "ヒトがモノになる空間"
+        },
+        {
           "Description": "このワールドはジョークワールドです。洗脳・催眠といったものに影響を受けやすい方はご注意ください This world is a joke world․ Please be careful if you are susceptible to brainwashing or hypnosis․ VRChatの利用規約を遵守し、パブリックインスタンスでセンシティブな格好や行為はしないでください Please abide by VRChat's Terms of Use and do not dress or act sensitively in public instances 何らかの生体実験を行なっているらしい研究所のようなところ。 yaokisub さんの衣装を着ていると楽しいかもしれない？",
           "ID": "wrld_34dfd244-c2ec-452a-897a-25b21320d8b2",
           "Name": "あやしいけんきゅうじょ ⁄ Immoral Laboratory"
@@ -33859,6 +32964,11 @@
           "Name": "雪色ファンタジー"
         },
         {
+          "Description": "彼らが王の言葉を聞いて旅に出ると、見よ、彼らが東方で見ていた星が彼らの前を進んで、幼子がいる所まで来て、その上にとどまった。彼らはその星を見て、この上もなく喜んだ。",
+          "ID": "wrld_eec01009-971f-4773-914b-a0a2f027a491",
+          "Name": "ITER"
+        },
+        {
           "Description": "BGM˸sea no -足跡",
           "ID": "wrld_020d2f7f-d586-4ded-8a70-d5245201a638",
           "Name": "陽射しの廃駅-Abandoned station in the sunshine"
@@ -33874,9 +32984,19 @@
           "Name": "Nightmare City -20th Anniversary Exhibition-"
         },
         {
+          "Description": "Happy New Year2024 胡椒神社",
+          "ID": "wrld_39140c64-4737-4698-9511-bd70d34c804b",
+          "Name": "Happy New Year2024 胡椒神社"
+        },
+        {
           "Description": "Silence of Ruin",
           "ID": "wrld_128a26aa-c55f-4579-a003-36168e83a894",
           "Name": "滅びの静寂 - Silence of Ruin"
+        },
+        {
+          "Description": "Happy New Year2025 胡椒神社 絵馬、おみくじ、オリジナル年賀状を作る場所あり",
+          "ID": "wrld_f8a183eb-67cd-4693-95e1-f8ab2ff853a8",
+          "Name": "Happy New Year2025 胡椒神社"
         },
         {
           "Description": "",
@@ -33892,6 +33012,11 @@
           "Description": "∗∗∗このワールドは未完成ですが、あなたの行動によって異なる結末を迎えることができます。∗∗∗",
           "ID": "wrld_f1473f42-bd9c-4680-acaa-4730c7a04f46",
           "Name": "MAZE"
+        },
+        {
+          "Description": "OHǃ MY CAR ［Update QVPen to 3․3․3］v1․1․1 Quest対応",
+          "ID": "wrld_a1a1bae9-0003-429c-a5eb-ded571193b82",
+          "Name": "Break the car"
         },
         {
           "Description": "",
@@ -33914,6 +33039,11 @@
           "Name": "Your reality is （not） your truth․"
         },
         {
+          "Description": "ホラーワールドやゲームワールドではありません。あなたの体験していない記憶のHUBです。現在3つのパートが稼働中。",
+          "ID": "wrld_a15a3044-db87-4bac-8d93-282e7a00e8f5",
+          "Name": "記憶の底なし沼"
+        },
+        {
           "Description": "1⁄13ギミック修正しました。7Days WorldWorks参加作品。 （ホラーワールドではありません。） ワールド内に物語が視聴できるポイントが6箇所あります。 使用素材：VOICEVOX冥鳴ひまり。 一部ギミックが壊れています。",
           "ID": "wrld_3712146c-5c0b-48cf-80b8-792824b84eea",
           "Name": "朱鷺ヶ谷神経科前バス乗り場"
@@ -33924,9 +33054,14 @@
           "Name": "Dungeon Maze［Horror Experiment］"
         },
         {
-          "Description": "SDK2版 このワールドは壊れています Original made by Abubu",
+          "Description": "2月2日でアライさんマンション5周年！2月9日まで開放予定です 更新できず入口閉鎖が解除できないためベンチなどを利用して無理やり入るか、ポータル先のワールドへ移動してください Original made by Abubu",
           "ID": "wrld_18addcea-d275-4969-af51-3e407ee89cf6",
           "Name": "［Public］Araisan Mansion"
+        },
+        {
+          "Description": "",
+          "ID": "wrld_a39563c5-221a-4bf7-9c16-09f0d51da854",
+          "Name": "Resort in Bali"
         },
         {
           "Description": "UAL project",
@@ -33979,6 +33114,11 @@
           "Name": "謎解き：あなたはみかた"
         },
         {
+          "Description": "Virtual Kokusai-doriǃ Enjoy shooting games‚ a thrilling Habu Bite （ǃǃ?） attraction‚ and moreǃ沖縄の観光地『国際通り』がバーチャル化！沖縄名物ドリンクをモチーフにしたシューティングゲームやハブに噛まれる（！？）コーナーなどユニークなアトラクションや展示が満載、沖縄ならではの体験を楽しみたいあなたにおすすめワールドです！",
+          "ID": "wrld_6f6a1811-4573-47dc-8ea5-d6ef62d92fe6",
+          "Name": "OKIVFES 2025_Virtual Kokusai-dori［JP］［EN］"
+        },
+        {
           "Description": "",
           "ID": "wrld_48f70688-a7a8-4252-b695-e891f845a129",
           "Name": "時の残響－Echoes of Time"
@@ -33997,6 +33137,11 @@
           "Description": "V睡したい時や、ゆったり雑談したい時など。ご自由におくつろぎ下さい。 入口すぐにはデッドアイシューティング。テントの上にはオセロ。階段裏にはトークガンが置いてあります。 ミラーはボタン一つでHQ、LQ、オフにできます。----------【Quest】焚火をローカルにしました。ＨＱミラーもありますがやや重いかもしれません。 Pen Mirror Bed Nightmode Callendar Joinlog",
           "ID": "wrld_92061a41-6d03-47f5-a978-5051843be49f",
           "Name": "屋上の秘密基地。"
+        },
+        {
+          "Description": "学校の七不思議のひとつ『異世界階段』の噂がある学校のワールドです。約１５分でクリアできます。",
+          "ID": "wrld_1b49a852-f6ae-481e-9611-71e1476cbaa5",
+          "Name": "学校の怪談～Ghost stories～"
         },
         {
           "Description": "撮影用に作成しました。写真などにどうぞ。 2023⁄10⁄12 額縁がアバターのみのカメラモードでも写ってしまう問題の修正。BGMの追加 ・使用させていただいたお花ちま屋様、bebecarrot様",
@@ -34019,6 +33164,16 @@
           "Name": "No Name"
         },
         {
+          "Description": "ティロリミックス2025の公開を記念してつくられた、日本マクドナルド初の公式VRChatワールドです。 バーチャルポテトを食べたり、フォトスポットで撮影を楽しんだり、ご自由にお楽しみください！ 撮影した写真や動画をSNS投稿する際はぜひ ＃バーチャルティロリワールド のハッシュタグをお願いします 公開期間：2025年6月17日まで",
+          "ID": "wrld_db9f0264-393f-4de1-96f2-7979fd4b4667",
+          "Name": "McDonald's Virtual Tirori World （マクドナルド ティロリミックス）"
+        },
+        {
+          "Description": "Fight with your past selves to raid the enemy baseǃ Made with help from Chim-Cham‚ Fins‚ and Fionna․ Created in less than a week for the VRCPrefabs Experiments in Time World Jam․",
+          "ID": "wrld_104a14a5-a9d8-4bd7-ab9f-3d5febd9572c",
+          "Name": "Army of You"
+        },
+        {
           "Description": "12",
           "ID": "wrld_dfbd5d6a-b559-4dec-8693-3509b985cbd0",
           "Name": "最後のクリスマス-Last Christmas"
@@ -34027,6 +33182,16 @@
           "Description": "Inspired by Amelia's love for marine life and ocean conservation‚ explore the wonders of the ocean in a relaxing aquarium‚ populated by strange‚ fascinating and familiar marine life featuring all members of hololive and holostars‚ an unforgettable experience awaits youǃ Thank you for all the love and support over the yearsǃ Credits˸ Producer˸ Amelia Watson holoAquarium World Map˸ Seafoam Creature Modelers˸ Twi‚ stupah‚ joules‚ pyroxene‚ Gon‚ Slvan‚ ROOJINALD‚ Rei21‚ Priichu‚ Hask Scripting˸ nullrefrepro Translations˸ Gomadare‚ Yuri‚ arc_‚ tototo Project Manager˸ Henma",
           "ID": "wrld_c13d5b71-b6f5-485a-a5af-9a28b9a89bff",
           "Name": "holoAquarium （Prod․ by Amelia Watson）"
+        },
+        {
+          "Description": "春限定公開。神隠しシリーズ4作目。",
+          "ID": "wrld_5eb5a1c1-51ab-4c03-9ffe-db8050672df7",
+          "Name": "神隠しの幻灯雫"
+        },
+        {
+          "Description": "そこにあるのは4枚のカード。日本語話者向け謎解きワールドです。想定クリア時間˸1時間くらい ＃VRC_Fake",
+          "ID": "wrld_a50146fe-4730-4ea2-a4e2-1870751e232b",
+          "Name": "謎解きワールド Fake"
         },
         {
           "Description": "推理力が試される謎解きワールドです．プリンを食べた犯人を探しましょう． このワールドは以下のアセットをそのまま使用しています 「モダンホーム 5 Modern Home 5 https˸⁄⁄badluckluka․booth․pm⁄items⁄3715475」バグ報告や質問などお問い合わせは X（Twitter）˸ ＠Komota_category にお願いします． ご感想は ＃VRC_MeitanteiS をつけてポストいただけるととても嬉しいです！",
@@ -34089,6 +33254,11 @@
           "Name": "huemv"
         },
         {
+          "Description": "A weird REPO spin-off recreated with custom driven pickup physics․ Original game developed by semiwork on Steam․ Current Level - McJannek Station․",
+          "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
+          "Name": "R․E․P․O․ VRC"
+        },
+        {
           "Description": "Come chill with your friends under the moonlight watchǃ Includes various pretty scenarios‚ a lot of cozy zones‚ ＋4000 videos on the player‚ games‚ night mode‚ lots of games‚ collars etcǃ This world is available for purchase at zelfine․gumroad․com",
           "ID": "wrld_3a90e63a-1754-4ca6-908c-9b6895c9e6f7",
           "Name": "Snowpeak"
@@ -34122,6 +33292,11 @@
           "Description": "讐復を能える。⁄アメリカ実行委員会（次の者が集団に拠ったもの：yosumi、中絲悠、藤井南、Katagiri Mitsuki、維漣、アメリカ民謡研究会） 【注意】アバター側にカメラを用いたギミックを導入している場合、ワールド演出に不具合が発生する可能性がございます。ご了承ください。【2025⁄04⁄29 03˸15更新】アクセスの集中により動画ソースが読み込まれない場合は、時間をおいてお試しいただけますと幸いです。",
           "ID": "wrld_a50c9ef1-d7a4-4140-9b64-fb9d223359e9",
           "Name": "讐復を能える。for VRChat"
+        },
+        {
+          "Description": "タンポポの花言葉は神託、真心の愛、そして＂ ＂。これはきっと新たな始まりに過ぎないのかもしれない。（BGM - https˸⁄⁄youtu․be⁄jDnCHQk4Kp8?si＝7ieljQC1Et58AZ_G）",
+          "ID": "wrld_fc16e4bb-ebde-4901-b7c9-538922a219a5",
+          "Name": "たんぽぽの旅立ち - A New Journey Of Dandelions"
         },
         {
           "Description": "In the wake of the loss of someone I once considered close‚ I found solace in creating a small world dedicated to preserving their memory․ Though my initial hesitation and lethargy may have cast a shadow of guilt‚ this world now serves as a solemn memory of the time I spent with them․ I made this world as a canvas to transform any guilt I had‚ into a heartfelt remembrance‚ a place where their spirit continues to reside in my thoughts and emotions․",
@@ -34199,6 +33374,11 @@
           "Name": "Mt․Hakodate"
         },
         {
+          "Description": "VR読劇-深海のアリア- 2週間限定一人用ワールド。 物語を読み進めていくワールドです。 VR深海プロジェクト企画 cv水縹（みはなだ）アオ",
+          "ID": "wrld_1fc47ba6-26b6-4f70-9c5a-56b30d88065f",
+          "Name": "VR読劇-深海のアリア-"
+        },
+        {
           "Description": "PCゲーム「さよならを教えて」をモチーフとしたワールドです。ホラー表現はありませんが、原作再現にあたり、不快と感じる要素があるため、精神不安定時はご利用をご遠慮ください。本ワールドで発生した事象に対し一切責任を持ちません。",
           "ID": "wrld_02ce9761-c458-43d8-b267-9353e72176e5",
           "Name": "さよならを教えて"
@@ -34264,7 +33444,7 @@
           "Name": "MONDO GROSSO ⁄ FORGOTTEN ［Vocal：ermhoi （Black Boboi ⁄ millennium parade）］"
         },
         {
-          "Description": "≺≺Original made by abubu≻≻",
+          "Description": "2月2日でアライさんマンション6周年！2月3日までパブリック化します≺≺Original made by abubu≻≻",
           "ID": "wrld_a87e7c31-2da8-451e-a79e-b1de72d53f9c",
           "Name": "［アライさんマンション］ Araisan Mansion"
         },
@@ -34274,9 +33454,24 @@
           "Name": "白紙 - Canvas"
         },
         {
+          "Description": "～8月31日迄の公開ワールド 注意：このワールドはサンプルアバター等ございません。 展示しているアバターも全て骨抜きされています。 「 この世界に差し込む光は、ひと時の内に消えてしまうかもしれません。しかし、その光は霞のようにぼんやりと漂い、決して消え去ることはありません。 確かな答えを求めながらも、曖昧に揺らぐ世界の中を私たちは歩み続けています。 ここで感じてほしいのは、その揺らぎこそが存在の美しさであり、意味なのだという事。 刹那の光にどうか心を寄せてみてください。」",
+          "ID": "wrld_0996e418-cb1b-405e-9616-42c0cf3ead2c",
+          "Name": "燦滅縹渺"
+        },
+        {
           "Description": "4․5×6＝27",
           "ID": "wrld_8f8a7f36-016c-4c46-9c93-12098d00aaf4",
           "Name": "二十七畳立方体 - Cubic"
+        },
+        {
+          "Description": "二つの物質からα反応またはβ反応を起こして、目的の物質を作っていきます。 二つの反応の法則はどんなものなのでしょうか？ 推定クリア時間：20～50分",
+          "ID": "wrld_9be6e6f8-a1a6-4113-9edf-df6133237439",
+          "Name": "ShamChemPuzzle"
+        },
+        {
+          "Description": "wip ⁄ local ⁄ QVpen‚Player‚Mirror‚Image tablet ⁄ Inspired by Araisan Mansion（アライさんマンション） ⁄ open ˸ ～8⁄32",
+          "ID": "wrld_24b1bf80-71ed-45d5-8afe-9b98b35e645f",
+          "Name": "損失前"
         },
         {
           "Description": "Neutrality",
@@ -34312,6 +33507,11 @@
           "Description": "貴方の月は綺麗ですか",
           "ID": "wrld_ec8a1907-eb2b-4087-8229-c4dfbd6aa3c0",
           "Name": "眠る月想う花"
+        },
+        {
+          "Description": "Deep within the bunkers of Site B lies various post-pale remains of the residential habitation zones where life-time employees lived‚ slept‚ and worked․ Warped and vulcanized remains of the site's senior staff may lie in the fray․ The world is effectively my attempt at making cozy lab dorms in the effective environment-design of the Changed universe․",
+          "ID": "wrld_b0d8ad72-b7d4-4d09-b3ae-b2e61c16333f",
+          "Name": "Changed ＆ Chill"
         },
         {
           "Description": "なんで作ったん？",
@@ -34469,6 +33669,11 @@
           "Name": "Forklift Simulator -Cargo Terminal2025-"
         },
         {
+          "Description": "このワールドを、全ての『_______』へ捧げます。 想定クリア時間：個人差大の為不明",
+          "ID": "wrld_dd10a47d-9ad0-4d41-ac05-c786729ead0e",
+          "Name": "【謎解き】Ability【パズル】"
+        },
+        {
           "Description": "【謎解き】偏愛cafe 1st Anniversary",
           "ID": "wrld_ceb2fd54-ddab-43d7-87ac-e2bd21254d2e",
           "Name": "【謎解き】偏愛cafe 1st Anniversary"
@@ -34502,6 +33707,11 @@
           "Description": "ふかふかのおふとんでおやすみなさい",
           "ID": "wrld_c0714a2c-dfef-4199-a132-c39a2eb1df2d",
           "Name": "架空の鳥"
+        },
+        {
+          "Description": "VRChat写真展示ワールドです。 この展示は、VRChatのパブリックワールドで出会った人たちを撮影した写真と、そこから生まれた言葉で構成されています。 ご不明な点がございましたら、Xまでご連絡ください。 X˸ ＠mizoregoro25496 感想等は「＃DearYouMyPolaris」でお願いします。",
+          "ID": "wrld_a05392ea-bcd0-4312-8aa9-68e5d79db5ce",
+          "Name": "親愛なるきみはポラリス-VRChat写真展示-"
         },
         {
           "Description": "潜れ。空は近い。",
@@ -34554,9 +33764,19 @@
           "Name": "Hollow Meteor"
         },
         {
+          "Description": "粘体生物に襲われるワールドです。",
+          "ID": "wrld_efc26f6a-5e63-449f-9e59-c3a7d9fafa66",
+          "Name": "怪奇！粘体生物！"
+        },
+        {
           "Description": "内カメ覗き込むのがかわいいやつを撮れる",
           "ID": "wrld_0127f520-07bf-4bba-8748-debcf0b997ec",
           "Name": "内カメ覗き込むかわいいやつを撮れる"
+        },
+        {
+          "Description": "JRタワーってどのくらい高いの？という疑問をVRで体感できるミニゲームワールドとなっております。 タイムアタックルールに自らのゴースト機能もあります！この機会にぜひチャレンジを！",
+          "ID": "wrld_f04a64a6-3949-423d-88f0-65579ecf417c",
+          "Name": "JRタワークライミングゲームワールド"
         },
         {
           "Description": "「木炭商店」の世界観を表現した宝物殿へようこそ。 飛行場ワールドの制作も手掛け、当店でも日頃からご協力をいただいております「葭切技術研究所」との共同制作で、この空間は実現しました。 当館では、日本刀剣や西洋剣、小物、個人依頼品など、木炭商店が手掛けた様々な3Dモデルを展示しています。 訪れた方が、それぞれの作品が持つ物語に触れ、あなたのVRChatライフを彩る「宝」を見つけられることを願っています。 静謐な空間で、作品の世界観を心ゆくまでお楽しみください。",
@@ -34674,6 +33894,11 @@
           "Name": "SOO Manga Night ［PNRS］"
         },
         {
+          "Description": "ベータ版です。 馬の配合、ベットシステム、レース、血統表、ステータス、馬データの共有、調教、観戦など色々遊べます。 β版なので不具合がある可能性があります！",
+          "ID": "wrld_bb27c42c-3ff5-4f5a-83ce-483cd6d5db49",
+          "Name": "Horse Racing Game World （β）"
+        },
+        {
           "Description": "自らの実在を証明することは可能なのか。我々の存在は無価値か、あるいは意味を持つのか。この問いは、かつて宇宙が創造主に投げかけたものでもある。 創造主は答えた。「我々もまた、次元演算の産物に過ぎないかもしれない」と。あらゆる宇宙には、それを演算し成立させる存在がある。そもそも現実とは、そのような相互作用の結果に過ぎないのかもしれない。 夢の中の無数の夢が統合され一つの存在となるように、現実もまた同様に成り立つ。もし覚醒が避けられないなら、私は終末の瞬間まであなたを護るだろう。 最後の一秒が消え、すべてが無に帰しても、私は再び蘇る。",
           "ID": "wrld_47c71b80-9acc-4429-9d81-1f808b5b9ab4",
           "Name": "AZ-01⁄UMBRA"
@@ -34704,11 +33929,6 @@
           "Name": "バッドエンドゴッコ"
         },
         {
-          "Description": "Gather the pieces of your obsession to finally let them go․⁄目を覚ますと、白い部屋にいた。 散らばったかけらを、ひとつずつ拾い集めていく。 指先は、それを知っているような気がする。",
-          "ID": "wrld_eda2b55e-9f7e-402c-b3ce-af7eac14bd4d",
-          "Name": "_Let Go ⁄ 手放す"
-        },
-        {
           "Description": "繰り返せない思い出と記憶の底の音楽室です。 音のならないリコーダーと、今日の記録を残しましょう。 どこかにテレポートがあります。",
           "ID": "wrld_bc1b585e-cb23-4385-a072-697dc098db7f",
           "Name": "日記を書くための部屋 - 音楽室 -"
@@ -34734,34 +33954,14 @@
           "Name": "Escape or Corrupted ［Beta Test］"
         },
         {
-          "Description": "FuruyoniTest2",
-          "ID": "wrld_db8bf2fd-72db-4864-8066-654703b7c3a0",
-          "Name": "FuruyoniTest_V2"
-        },
-        {
-          "Description": "",
-          "ID": "wrld_6bd4c71a-643b-4dec-b905-e6d8a4a2aa75",
-          "Name": "Project˸ DOLLIFY"
-        },
-        {
-          "Description": "",
-          "ID": "wrld_8d534a31-7080-4284-9cae-cfa5a4da2170",
-          "Name": "Escape or Corrupted （original）"
-        },
-        {
-          "Description": "罪を犯した者への罰",
-          "ID": "wrld_dc3cdb51-3580-4bb9-bf64-42655a60071d",
-          "Name": "天罰"
+          "Description": "quicksand",
+          "ID": "wrld_fa9bc3a6-795f-4cdf-a563-0b5d1db41985",
+          "Name": "the pits"
         },
         {
           "Description": "［JP Only］短時間でプレイできる謎解きワールドです。頻出の謎を解いて正しいエリアに移動しましょう。 プレイ人数：1人 プレイ時間：5分～",
           "ID": "wrld_8234179d-c1ed-4a0a-890a-fd3ea6186208",
           "Name": "謎解きワールド「ももひろいチャレンジ」"
-        },
-        {
-          "Description": "昔、手放してしまった絵があってね",
-          "ID": "wrld_fb2d8457-c02e-400b-aeb1-dde094f0f912",
-          "Name": "風待ちの浜"
         },
         {
           "Description": "ヘッダーに座ったり、ヘッダーから飛び出したりする写真を撮る用のワールドです。 VR推奨。動画プレイヤー、QVペン、ミラーがあります。 アップデート予定は特にありません。",
@@ -35047,16 +34247,6 @@
           "Description": "One Room․ One Timeline? Solve the puzzles․ Find the Clues․ See where it takes you․․․",
           "ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
           "Name": "Time Motel"
-        }
-      ]
-    },
-    {
-      "Category": "titanic",
-      "Worlds": [
-        {
-          "Description": "This is the previous old version of the current public Titanic world․ This world is now archived but anyone can still experience it via a link․ Go check out the new worldǃ",
-          "ID": "wrld_63e767c7-c0ca-4952-b4e6-013a77300769",
-          "Name": "A Night To Remember - Titanic Survival Experience ［ARCHIVED］"
         }
       ]
     },
@@ -36959,11 +36149,6 @@
           "Name": "Time Breach"
         },
         {
-          "Description": "Fight with your past selves to raid the enemy baseǃ Made with help from Chim-Cham‚ Fins‚ and Fionna․ Created in less than a week for the VRCPrefabs Experiments in Time World Jam․",
-          "ID": "wrld_104a14a5-a9d8-4bd7-ab9f-3d5febd9572c",
-          "Name": "Army of You"
-        },
-        {
           "Description": "One Room․ One Timeline? Solve the puzzles․ Find the Clues․ See where it takes you․․․",
           "ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
           "Name": "Time Motel"
@@ -38252,6 +37437,41 @@
           "Description": "DreamFactory ノラタマが夢で行った空間をワールドとして形にしました。バカ重いです。Noratama",
           "ID": "wrld_66f87f3e-8840-49f6-ad80-b625f7337658",
           "Name": "夢で遭遇した場所001"
+        }
+      ]
+    },
+    {
+      "Category": "手動登録",
+      "Worlds": [
+        {
+          "Description": "",
+          "ID": "wrld_db8bf2fd-72db-4864-8066-654703b7c3a0",
+          "Name": "FuruyoniTest_V2"
+        },
+        {
+          "Description": "",
+          "ID": "wrld_7edc99f7-653f-4939-8d2e-30c72c69e8e9",
+          "Name": "バカえぐいプレスなかよし"
+        },
+        {
+          "Description": "",
+          "ID": "wrld_6bd4c71a-643b-4dec-b905-e6d8a4a2aa75",
+          "Name": "Project˸ DOLLIFY"
+        },
+        {
+          "Description": "",
+          "ID": "wrld_8d534a31-7080-4284-9cae-cfa5a4da2170",
+          "Name": "Escape or Corrupted （original）"
+        },
+        {
+          "Description": "罪を犯した者への罰",
+          "ID": "wrld_dc3cdb51-3580-4bb9-bf64-42655a60071d",
+          "Name": "天罰"
+        },
+        {
+          "Description": "昔、手放してしまった絵があってね",
+          "ID": "wrld_fb2d8457-c02e-400b-aeb1-dde094f0f912",
+          "Name": "風待ちの浜"
         }
       ]
     },
