@@ -48,8 +48,8 @@ namespace Shift.PhotoFrame
 
         // 画像（外部参照）への静的URL
         // VRCUrlは基本的に静的URLにしないといけないため、あらかじめ十分な数のURLを宣言しておく
-        // URL先に画像の実態があるかどうかは保証されない
-        // 上記fileNumUrlに記載されている"有効なファイル数"までは実態があることを想定する
+        // URL先に画像の実体があるかどうかは保証されない
+        // 上記fileNumUrlに記載されている"有効なファイル数"までは実体があることを想定する
         private const int MaxPhotoCount = 50;
         private VRCUrl[] imageUrls = {
             new VRCUrl("https://shift4869.github.io/vrc-shift.github.io/TreeHouse/image/00.png"),
